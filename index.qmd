@@ -1,6 +1,10 @@
 ---
 title: "Kazuhiro Terashita"
+link-external-newwindow: true
+toc-depth: 5
 ---
+
+![](pic/IMG_0614.png){fig-align="center"}
 
 I am a JSPS Research Fellow (PD) at Kyoto University.
 
@@ -9,3 +13,21 @@ My research interests are social movements and civil society in Korea and Japan.
 寺下和宏のウェブサイトです。
 
 韓国と日本の社会運動・市民社会について研究しています。
+
+::: callout-note
+## Menu
+
+-   [CV](cv.qmd)
+
+-   [Research](research.qmd)
+
+-   [Teaching](teaching.qmd)
+:::
+
+::: callout-note
+## Next
+
+-   2023年9月16, 17日　学会報告「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」『日本政治学会研究大会』＠明治大学
+<div class="btn">[URL](https://www.jpsa-web.org/conf/2023/program/session.html#bunkakai_c)</div>
+
+:::

@@ -1,1 +1,27 @@
 /* css styles */
+figcaption {
+    text-align: center;
+}
+
+.btn > a {
+    background-color: #FFCCFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FF99FF;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #CC99FF;
+}
+
+.btn > a:hover {
+    background-color: #FFCCFF;
+    padding-left: 4px;
+    border-width: 2px;
+}
+
+p {
+    line-height: 1.6em;
+}
