@@ -10,6 +10,7 @@ website:
   title: "Kazuhiro Terashita"
   page-footer: "Copyright 2023, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
