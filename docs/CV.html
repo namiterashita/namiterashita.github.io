@@ -134,7 +134,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">目次</h2>
+   
+  <ul>
+  <li><a href="#full-cv" id="toc-full-cv" class="nav-link active" data-scroll-target="#full-cv">Full CV</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a>
+  <ul>
+  <li><a href="#学歴" id="toc-学歴" class="nav-link" data-scroll-target="#学歴">学歴</a></li>
+  <li><a href="#語学留学" id="toc-語学留学" class="nav-link" data-scroll-target="#語学留学">語学留学</a></li>
+  <li><a href="#語学スコア" id="toc-語学スコア" class="nav-link" data-scroll-target="#語学スコア">語学スコア</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -150,15 +162,71 @@ ul.task-list li input[type="checkbox"] {
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">更新日</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">2023年6月17日</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<p>CV</p>
+<section id="full-cv" class="level3">
+<h3 class="anchored" data-anchor-id="full-cv">Full CV</h3>
+<p><a href="KazuhiroTerashita_CV.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>&nbsp;&nbsp;&nbsp;Open CV</a></p>
+</section>
+<section id="education" class="level3">
+<h3 class="anchored" data-anchor-id="education">Education</h3>
+<section id="学歴" class="level4">
+<h4 class="anchored" data-anchor-id="学歴">学歴</h4>
+<p><strong>2023年3月　神戸大学大学院法学研究科博士課程後期課程　修了</strong></p>
+<ul>
+<li><strong>博士（政治学）</strong>, 神戸大学</li>
+<li>博士学位論文「韓国における女性団体とジェンダー政策――市民社会の政治的帰結に関する実証研究」
+<ul>
+<li>主査：大西裕先生</li>
+<li>副査：砂原庸介先生, 藤村直史先生</li>
+</ul></li>
+</ul>
+<p><strong>2019年3月　立命館大学大学院国際関係研究科博士課程前期課程　修了</strong></p>
+<ul>
+<li><strong>修士（国際関係学）</strong>, 立命館大学</li>
+<li>学位取得論文「韓国における『慰安婦』運動の政治分析：『記憶する』アドボカシーと対立構造」
+<ul>
+<li>主査：足立研幾先生</li>
+<li>副査：中戸祐夫先生</li>
+</ul></li>
+</ul>
+<p><strong>2017年3月　関西大学法学部法学政治学科　卒業</strong></p>
+<ul>
+<li><strong>学士（法学）</strong>, 関西大学</li>
+<li>専門演習/ゼミ研究論文「ヘイトスピーチと対抗する市民構造：差別問題に関するアドボカシーの検証」
+<ul>
+<li>指導教員：坂本治也先生</li>
+</ul></li>
+</ul>
+<p><strong>2013年3月　関西大学北陽高等学校普通科関大連携コースⅡ類　卒業</strong></p>
+</section>
+<section id="語学留学" class="level4">
+<h4 class="anchored" data-anchor-id="語学留学">語学留学</h4>
+<p><strong>2021年5月　延世大学韓国語学堂夜間課程　8級　修了</strong></p>
+<p><strong>2015年8月　高麗大学校韓国語センター短期研修課程（関西大学課程・初級相当）　修了</strong></p>
+</section>
+<section id="語学スコア" class="level4">
+<h4 class="anchored" data-anchor-id="語学スコア">語学スコア</h4>
+<p><strong>韓国語能力試験（TOPIK） 6級:最高級</strong></p>
+<ul>
+<li>듣기(Listening): 92/100</li>
+<li>쓰기(Writing): 58/100</li>
+<li>읽기(Reading): 92/100</li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -507,6 +575,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

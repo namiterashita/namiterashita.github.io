@@ -134,7 +134,18 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">目次</h2>
+   
+  <ul>
+  <li><a href="#年度" id="toc-年度" class="nav-link active" data-scroll-target="#年度">2023年度</a>
+  <ul>
+  <li><a href="#龍谷大学" id="toc-龍谷大学" class="nav-link" data-scroll-target="#龍谷大学">龍谷大学</a></li>
+  <li><a href="#京都女子大学" id="toc-京都女子大学" class="nav-link" data-scroll-target="#京都女子大学">京都女子大学</a></li>
+  <li><a href="#滋賀県立大学" id="toc-滋賀県立大学" class="nav-link" data-scroll-target="#滋賀県立大学">滋賀県立大学</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -150,15 +161,52 @@ ul.task-list li input[type="checkbox"] {
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">更新日</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">2023年6月17日</p>
+    </div>
+  </div>
     
   </div>
   
 
 </header>
 
-<p>teaching</p>
+<section id="年度" class="level3">
+<h3 class="anchored" data-anchor-id="年度">2023年度</h3>
+<section id="龍谷大学" class="level4">
+<h4 class="anchored" data-anchor-id="龍谷大学">龍谷大学</h4>
+<ul>
+<li>政治学概論（通年, 火4）
+<ul>
+<li>講義資料はmanabaを確認してください。</li>
+<li>シラバスは<a href="https://syllabus.ws.ryukoku.ac.jp/acrsw/Syld110/SYLD110Init.do">龍谷大学のシラバス検索ページ</a>から確認できます。</li>
+</ul></li>
+</ul>
+</section>
+<section id="京都女子大学" class="level4">
+<h4 class="anchored" data-anchor-id="京都女子大学">京都女子大学</h4>
+<ul>
+<li>地方自治論（前期, 木2）
+<ul>
+<li>講義資料はLMSを確認してください。</li>
+<li>シラバスは<a href="https://portal.kyoto-wu.ac.jp/portal/index/search">京都女子大学のシラバス検索ページ</a>から確認できます。</li>
+</ul></li>
+</ul>
+</section>
+<section id="滋賀県立大学" class="level4">
+<h4 class="anchored" data-anchor-id="滋賀県立大学">滋賀県立大学</h4>
+<ul>
+<li>社会調査方法論（後期, 火2）
+<ul>
+<li>シラバスは<a href="https://www.usp.ac.jp/gakubu/edu/syllabus/">滋賀県立大学のウェブサイト</a>から確認できます。</li>
+</ul></li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -507,6 +555,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

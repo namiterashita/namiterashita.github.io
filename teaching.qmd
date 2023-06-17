@@ -1,5 +1,28 @@
 ---
 title: "Teaching"
+date-modified: today
+link-external-newwindow: true
+#link-external-icon: true
+toc: true
+toc-depth: 5
 ---
 
-teaching
+### 2023年度
+#### 龍谷大学
+
+ - 政治学概論（通年, 火4）
+   - 講義資料はmanabaを確認してください。
+   - シラバスは[龍谷大学のシラバス検索ページ](https://syllabus.ws.ryukoku.ac.jp/acrsw/Syld110/SYLD110Init.do)から確認できます。
+
+
+#### 京都女子大学
+ - 地方自治論（前期, 木2）
+   - 講義資料はLMSを確認してください。
+   - シラバスは[京都女子大学のシラバス検索ページ](https://portal.kyoto-wu.ac.jp/portal/index/search)から確認できます。
+
+
+#### 滋賀県立大学
+ - 社会調査方法論（後期, 火2）
+    - シラバスは[滋賀県立大学のウェブサイト](https://www.usp.ac.jp/gakubu/edu/syllabus/)から確認できます。
+    
+    
