@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "namiterashita.github.io",
+    "title": "Kazuhiro Terashita",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a JSPS Research Fellow (PD) at Kyoto University.\nMy research interests are social movements and civil society in Korea and Japan.\n寺下和宏のウェブサイトです。\n韓国と日本の社会運動・市民社会について研究しています。"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "research"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "teaching"
   }
 ]

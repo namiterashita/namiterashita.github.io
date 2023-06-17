@@ -3,12 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "namiterashita.github.io"
+  title: "Kazuhiro Terashita"
+  page-footer: "Copyright 2023, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: "CV"
+        href: CV.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right: 
+      - icon: twitter
+        href: https://twitter.com/namiterashita
+      - icon: instagram
+        href: https://www.instagram.com/namiterashita/
+      - icon: github
+        href: https://github.com/namiterashita
+      - icon: map
+        href: https://researchmap.jp/kazuhiroterashita
 
 format:
   html:
