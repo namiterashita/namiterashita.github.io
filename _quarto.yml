@@ -14,11 +14,11 @@ website:
       - href: index.qmd
         text: Home
       - text: "CV"
-        href: CV.qmd
+        href: CV/index.qmd
       - text: "Research"
-        href: research.qmd
+        href: research/index.qmd
       - text: "Teaching"
-        href: teaching.qmd
+        href: teaching/index.qmd
     right: 
       - icon: twitter
         href: https://twitter.com/namiterashita
