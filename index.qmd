@@ -1,5 +1,5 @@
 ---
-title: "Kazuhiro Terashita"
+title: ""
 link-external-newwindow: true
 toc-depth: 5
 ---
