@@ -1,10 +1,14 @@
 ---
-title: "namiterashita.github.io"
+title: "Kazuhiro Terashita"
 ---
 
-This is a Quarto website.
+I am a JSPS Research Fellow (PD) at Kyoto University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests are social movements and civil society in Korea and Japan.
+
+寺下和宏のウェブサイトです。
+
+韓国と日本の社会運動・市民社会について研究しています。
 
 ```{r}
 1 + 1
