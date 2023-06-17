@@ -5,15 +5,15 @@ figcaption {
 
 .btn > a {
     background-color: #FFCCFF;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
     border-width: 1px;
     border-style: solid;
-    border-color: #FF99FF;
-    border-radius: 5px;
+    border-color: #CC66FF;
+    border-radius: 4px;
     font-weight: 500;
-    font-size: 16px;
-    color: #CC99FF;
+    font-size: 15px;
+    color: #CC66FF;
 }
 
 .btn > a:hover {

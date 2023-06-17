@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+#language: _language.yml
+lang: ja
+
 website:
   title: "Kazuhiro Terashita"
   page-footer: "Copyright 2023, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
