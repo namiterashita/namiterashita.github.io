@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.kazuhiroterashita.com/index.html</loc>
-    <lastmod>2023-06-19T01:15:56.686Z</lastmod>
+    <lastmod>2023-06-19T01:25:54.186Z</lastmod>
   </url>
   <url>
     <loc>https://www.kazuhiroterashita.com/CV/index.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://www.kazuhiroterashita.com/teaching/index.html</loc>
     <lastmod>2023-06-18T04:57:04.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kazuhiroterashita.com/cv/index.html</loc>
+    <lastmod>2023-06-19T01:26:28.106Z</lastmod>
   </url>
 </urlset>
