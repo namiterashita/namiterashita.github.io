@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - text: "CV"
-        href: CV/index.qmd
+        href: cv/index.qmd
       - text: "Research"
         href: research/index.qmd
       - text: "Teaching"

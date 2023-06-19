@@ -16,7 +16,7 @@ My research interests are social movements and civil society in Korea and Japan.
 ::: callout-note
 ## Menu
 
--   [CV](CV/index.qmd)
+-   [CV](cv/index.qmd)
 -   [Research](research/index.qmd)
 -   [Teaching](teaching/index.qmd)
 :::
