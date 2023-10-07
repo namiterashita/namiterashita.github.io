@@ -18,6 +18,28 @@ toc-depth: 5
    -  受入研究機関：京都大学 公共政策連携研究部・教育部
    -  受入研究者：曽我謙悟先生
 
+### Contact
+Mail: kazuhiroterashita [at] outlook.jp
+
+- Address
+    - 〒606-8501 京都市左京区吉田本町
+        - 研究室: 法経北館2階 209号室
+    - Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, JAPAN
+        - Office: \#209, Faculty of Law and Faculty of Economics North Bldg. 2F
+
+- Access
+
+   - 京都駅から
+   1. 京都市営地下鉄京都駅→烏丸線・国際会館行（約10分）→今出川→烏丸今出川→京都市営バス201/203/急行102（約10分）→百万遍
+   1. JR京都駅→京都市営バス17/206（約35～45分）→百万遍
+   1. JR京都駅→奈良線・宇治方面（約3分）→東福寺→京阪本線・出町柳行（約15分）→出町柳（大学まで徒歩約15分）
+   
+   - 大阪方面から
+   1. 京橋→京阪本線・出町柳行（特急：約50分）→出町柳（大学まで徒歩約15分）
+   1. 梅田→阪急京都線・河原町行（特急：約45分）→河原町→四条河原町→京都市営バス3/17/31/201（約20分）→百万遍
+
+    - 地図 <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1891855004114!2d135.77886387571886!3d35.02699677280552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108562446b2bb%3A0x17026e2b02f706d9!2z5Lqs6YO95aSn5a2mIOWQieeUsOOCreODo-ODs-ODkeOCuSDmnKzpg6jmp4vlhoU!5e0!3m2!1sja!2skr!4v1696660737779!5m2!1sja!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### Education
 
 #### 学歴
