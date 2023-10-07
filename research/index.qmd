@@ -39,7 +39,7 @@ toc-depth: 5
 
 #### Domestic Conference
 
-1.  **寺下和宏**「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」,『日本政治学会2023年度研究大会』, 東京, 2023年9月. [[ペーパー/スライド](https://drive.google.com/drive/folders/1r1prVFD3mXyCCzQn3wl9UuoALqrtqNN5?usp=sharing)]{.btn}
+1.  **寺下和宏**「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」,『日本政治学会2023年度研究大会』, 東京, 2023年9月. 
 
 2.  大倉沙江, 三浦まり, 小谷幸, 金美珍, **寺下和宏**, 坂本治也, 菊池遼「パネル：日本の政治・社会におけるジェンダー不平等と女性運動・女性団体：アンケート調査の結果から」,『日本NPO学会第25回年次大会』,京都, 2023年6月.
 
