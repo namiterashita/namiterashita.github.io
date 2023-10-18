@@ -3,22 +3,86 @@ title: "CV"
 date-modified: today
 link-external-newwindow: true
 #link-external-icon: true
-toc: true
-toc-depth: 5
+format:
+   html:
+    toc: true
+    toc-depth: 5
+    lang: ja
+   pdf:
+    author: KAZUHIRO TERASHITA, Ph.D.
+    pdf-engine: weasyprint
+    lang: ja
+    
+css: cv.css
+format-links: [pdf]
 ---
+::: {.print-only .contact-block}
+寺下 和宏
+:::
 
-### Full CV
 
-<a href="KazuhiroTerashita_CV.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>   Open CV</a>
+::: {.print-only .contact-block-2}
+Program-Specific Researcher
 
-### Affiliation
+JSPS Postdoctoral Research Fellow
+
+:::
+
+::: {.print-only .contact-block-3}
+
+***
+
+:::
+
+::: {.print-only .contact-block-3}
+Graduate School of Law, Kyoto University
+
+Yoshida Honmachi, Sakyo-ku, Kyoto-shi, Kyoto, 606-8501, JAPAN
+
+:::
+
+::: {.print-only .contact-block-3}
+Tel. (office): +81-75-753-3126
+
+E-mail: kazuhiroterashita@outlook.jp
+
+Website: https://kazuhiroterashita.com/
+
+```{r} 
+#| echo: false
+#| output: asis
+today <- Sys.Date()
+today <- format(today, format="Update: %B %d %Y")
+cat(today)
+```
+
+
+:::
+
+
+::: {.no-print}
+
+## Full CV in English
+
+<a href="index.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>   Open CV</a>
+
+:::
+
+::: {.no-print}
+
+## Affiliation
 
 -  京都大学 大学院法学研究科 特定研究員
 -  日本学術振興会 特別研究員PD
    -  受入研究機関：京都大学 公共政策連携研究部・教育部
    -  受入研究者：曽我謙悟先生
+   
+:::
 
-### Contact
+
+::: {.no-print}
+
+## Contact
 Mail: kazuhiroterashita [at] outlook.jp
 
 - Address
@@ -40,14 +104,51 @@ Mail: kazuhiroterashita [at] outlook.jp
 
     - 地図 <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1891855004114!2d135.77886387571886!3d35.02699677280552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108562446b2bb%3A0x17026e2b02f706d9!2z5Lqs6YO95aSn5a2mIOWQieeUsOOCreODo-ODs-ODkeOCuSDmnKzpg6jmp4vlhoU!5e0!3m2!1sja!2skr!4v1696660737779!5m2!1sja!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Education
+:::
 
-#### 学歴
+## Education
+
+::: {.print-only}
+**Ph.D.** in Political Science <br> *Kobe University* [*Apr. 2019 --- Mar. 2023*]{.cvdate}
+
+- Supervisor: Prof. Yutaka Onishi
+- Thesis Title: Women’s Organization and Gender Policy in Korea: An Empirical Study on the Political Consequences of Civil Society <br> (= 韓国における女性団体とジェンダー政策---市民社会の政治的帰結に関する実証研究)
+   - The examiners: Prof. Yutaka Onishi (Chief), Prof. Yosuke Sunahara, Prof. Naofumi Fujimura (Sub-chief)
+   
+**Master** of International Relations <br> *Ritsumeikan University* [*Apr. 2017 --- Mar. 2019*]{.cvdate}
+
+- Supervisor: Prof. Kenki Adachi
+- Thesis Title: The Analysis of‘ Comfort Women ’Movements in Republic of Korea: Advocacy of‘ memories ’and Conflict Structure <br> (= 韓国における「慰安婦」運動の政治分析:「記憶する」アドボカシーと対立構造) 
+    - The examiners: Prof. Kenki Adachi (Chief), Prof. Sachio Nakato (Sub-chief)
+
+**Bachelor** of Law <br> *Kansai University* [*Apr. 2013 --- Mar. 2017*]{.cvdate}
+
+- Supervisor: Prof. Haruya Sakamoto
+- Thesis Title: The Structure of Civil Society as Countering of Hate Speech: Analysis of Advocacy about Discrimination in Japan <br> (= ヘイトスピーチと対抗する市民構造:差別問題に関するアドボカシーの検証)
+
+
+*Yonsei University Korean Language Institute* [*Sep. 2020 --- May. 2021*]{.cvdate}
+
+- Evening Program / Completion
+    - Level 8 / 8 Spring Term [*Mar. 2021 --- May. 2021*]{.cvdate} 
+    - Level 7 / 8 Winter Term [*Dec. 2020 --- Feb. 2021*]{.cvdate} 
+    - Level 6 / 8 Fall Term [*Sep. 2020 --- Nov. 2020*]{.cvdate}
+
+*Korea University Korean Language Center* [*Aug. 2015*]{.cvdate}
+
+- Short-term Intensive Courses
+- Beginner
+    - Summer Short-term/Aug. 2015 (3 weeks)
+:::
+
+::: {.no-print}
+
+### 学歴
 
 **2023年3月　神戸大学大学院法学研究科博士課程後期課程　修了**
 
 -   **博士（政治学）**, 神戸大学
--   博士学位論文「韓国における女性団体とジェンダー政策――市民社会の政治的帰結に関する実証研究」
+-   博士学位論文「韓国における女性団体とジェンダー政策---市民社会の政治的帰結に関する実証研究」
     -   主査：大西裕先生
     -   副査：砂原庸介先生, 藤村直史先生
 
@@ -66,16 +167,391 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 **2013年3月　関西大学北陽高等学校普通科関大連携コースⅡ類　卒業**
 
-#### 語学留学
+### 語学留学
 
 **2021年5月　延世大学韓国語学堂夜間課程　8級　修了**
 
 **2015年8月　高麗大学校韓国語センター短期研修課程（関西大学課程・初級相当）　修了**
 
-#### 語学スコア
+:::
 
-**韓国語能力試験（TOPIK） 6級:最高級**
 
--   듣기(Listening): 92/100
--   쓰기(Writing): 58/100
--   읽기(Reading): 92/100
+## Area of Specialization
+
+::: {.no-print}
+**比較政治学**：社会運動、官民協働、ローカル・ガバナンス、韓国政治、日本政治
+
+**市民社会論**：女性運動、フェミニズム、反差別運動、河川保全運動、「新しい社会運動」、政治的帰結
+:::
+
+::: {.print-only}
+**Comparative Politics** : Social Movements, Public-Private Partnership, Local Gov-
+ernance, Korean Politics, Japanese Politics
+
+**Civil Society** : Women’s Activism, Feminism, Anti-Discrimination Activism, River Activism, New Social Movements, Political Outcome
+:::
+
+
+## Teaching
+
+::: {.no-print}
+- [Teaching (in Japanese)](https://kazuhiroterashita.com/teaching/)
+- [Full CV (in English)](index.pdf)
+:::
+
+::: {.print-only}
+**Ryukoku University**
+- Introduction to Political Science (2023)
+
+**Kyoto Women’s University**
+- Local Government (2023)
+
+**The University of Shiga Prefecture**
+- Methods of Social Research (2023)
+
+## Teaching Assistant
+
+2022 Fall Kansai University
+
+- Macro Political Data Analysis Practice (Prof. Jaehyun Song)
+
+2022 Spring Kobe University
+
+- First-Year Seminar (Prof. Yutaka Onishi)
+- Comparative Politics (Prof. Yutaka Onishi)
+
+2020 Fall Kobe University
+
+- Public Administration Seminar (Prof. Yutaka Onishi)
+
+2020 Spring Kobe University
+
+- Public Administration Seminar (Prof. Yutaka Onishi)
+- Comparative Politics (Prof. Yutaka Onishi)
+
+2019 Fall Kobe University
+
+- Public Administration Seminar (Prof. Yutaka Onishi)
+
+2018 Fall Ritsumeikan University
+
+- Writing Program in Japanese (Institution)
+
+2018 Spring Ritsumeikan University
+
+- Writing Program in Japanese (Institution)
+
+:::
+
+## Experiences
+
+::: {.no-print}
+
+- [Full CV (in English)](index.pdf)
+- [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
+
+:::
+
+::: {.print-only}
+
+**Program-Specific Researcher** [Oct. 2023 --- Curr.]{.cvdate}
+
+- Graduate School of Law, Kyoto University
+
+**Research Fellow (Postdoctoral Fellow)** [Apr. 2023 --- Curr.]{.cvdate}
+
+- Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)
+
+**Research Fellow (Torii Fellow)** [Apr. 2022 --- Mar. 2023]{.cvdate}
+
+- Grant for Individual Research on Society and Culture by Young Researchers Suntory Foundation
+
+**Project Student** [Apr. 2022 --- Mar. 2023]{.cvdate}
+
+- Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, Kobe University
+
+**Foreign Research Student** [Aug. 2021 --- June 2022]{.cvdate}
+
+- Graduate School of International Studies, Yonsei University
+
+**President** [May 2018 --- Mar. 2019]{.cvdate}
+
+- Graduate Student Association, Graduate School of International Relations, Ritsumeikan University
+
+**Secretary** [May 2018 --- Mar. 2019]{.cvdate}
+
+- Joint Association of Graduate Students, Ritsumeikan University Kinugasa Campus
+
+**Organizer** [Apr. 2018 --- Feb. 2019]{.cvdate}
+
+- Research Workshop of Political Studies, Ritsumeikan University
+
+**President** [Dec. 2014 --- Mar. 2016]{.cvdate}
+
+- Korean Culture Club in Kansai University
+- First President and Promoter
+
+**Chief** of 1st/2nd Students [Nov. 2013 --- Oct. 2014]{.cvdate}
+
+- Kansai University Law Center Association
+
+**Vice President** [Fall 2011 --- Summer 2012]{.cvdate}
+
+- Kansai University Hokuyo High School Student Council
+
+:::
+
+::: {.no-print}
+
+## Research
+
+- [Research (in Japanese)](https://kazuhiroterashita.com/research/)
+- [Full CV (in English)](index.pdf)
+- [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
+
+:::
+
+::: {.print-only}
+
+## Works in Progress
+### Women’s Organization and Gender Policy in Korea
+
+- **[Accepted]** Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea (in Japanese)
+- Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in Korea
+- Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
+- Women’s Organizations and Elections: Understanding the Commitment of Women’s Organizations to Elections through Participatory Observation
+- Whether Women’s Organizations and Movements Influence Women’s Substantive Representation: An Empirical Analysis Using Korean Parliamentary Proceeding
+
+### Women’s Organization and Gender Policy in Japan
+- Political Representation of Women in Civil Society in Japan
+- Biased Newspaper Coverage of Women’s Organizations in Japan
+- Women’s Organization and Gender Policy in Japan
+
+### Automatized Protest Event Analysis in Asia
+- Automated/Semi-Automated Protest Event Analysis in Asia
+
+## Journal Articles
+
+(in Japanese) **Terashita, Kazuhiro**. 2023. What is Gender Budgeting? : A Lit- erature Review and Case of South Korea. *The Rokkodai Ronshu. Law & Political Science* 69(2): 99-123. <br> (=「ジェンダー予算とは何か:文献レビューと韓国の事例から」『六甲台論集. 法学政治学編』69(2):99-123.)
+
+(in Japanese) **Terashita, Kazuhiro**. 2022. What are the Political Consequences of the Boomerang Strategy of Civil Society Organizations?: A Case Study of the Hate Speech Elimination Law in Japan. *The Nonprofit Review* 21(1+2): 81-93. <br> (=「市民社会組織のブーメラン戦略はいかなる政治的帰結をもたらすのか:日本におけるヘイトスピーチ解消法の事例分析」『ノンプロフィット・レビュー』21(1・2):81–93.)
+
+(in Japanese) **Terashita, Kazuhiro**. 2022. A Qualitative Comparative Analysis (QCA) of Public-Private Collaboration in River Administration: Focusing on the Ad- ministrative Implementation Structure of Government and Strategies of Civil Society Organizations. *Quarterly Journal of Administrative Research*(177): 46-60. <br> (=「河川行政における官民協働の質的比較分析(QCA):行政の実施構造と民間団体の戦略に注目して」『季刊行政管理研究』(177):46–60.)
+
+## MISC
+
+(in Japanese) **Terashita, Kazuhiro**. 2022. Book Review: Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019. *Japanese Journal of Electoral Studies* 38(1): 126–7. <br> (=「書評:Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019」『選挙研究』38(1): 126–7.)
+
+
+## Conference Presentations
+
+(in Japanese) **Kazuhiro Terashita**. Political Events and Protests in Korea: A Semi-automated Protest Event Analysis. *Japanese Political Science Association 2023 Annual Conference*, Tokyo, Sep. 2023. <br> (=「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」, 日本政治学会2023年度研究大会, 東京, 2023年9月)
+
+(in Japanese) Okura, Sae, Mari Miura, Sachi Kotani, Mi-jin Kim, **Kazuhiro Terashita**, Haruya Sakamoto, and Ryo Kikuchi. Panel: Gender Inequality in Japanese Politics and Society and Women’s Movements and Organizations: Results of a Questionnaire Survey. *The Japan NPO Research Association 25th Annual Meeting*, Kyoto, June 2023.  <br> (=「パネル:日本の政治・社会におけるジェンダー不平等と女性運動・女性団体:アンケート調査の結果から」, 日本NPO学会第25回年次大会, 京都, 2023年6月)
+
+(in Japanese) **Terashita, Kazuhiro**. Do Women’s Organizations and Movements Influence Women’s Substantive Representation: An Empirical Analysis Using Korean Parliamentary Proceedings. *Japanese Association of Electoral Studies 2023 Annual Conference*, Tokyo, May. 2023. <br> (=「女性団体は福祉予算にどのような影響を与えるのか:韓国の地方自治体を事例に」, 日本選挙学会2023年度総会・研究会, 東京, 2023年5月)
+
+**Terashita, Kazuhiro**. How Do Women’s Organizations Influence Welfare Budgets?: Empirical Evidence from Local Governments in South Korea. *International Society for Third-Sector Research 15th International Conference*, Montreal, July 2022.
+
+(in Japanese) Ishimoto, Megumi, Tomoko Endo, **Kazuhiro Terashita**, and Sae Okura. Panel: How should NPOs and Civic Activities Deal with Women and Gender? *The Japan NPO Research Association 24th Annual Meeting*, Online, June 2022.  <br> (=「パネル:NPO・市民活動は女性・ジェンダーにどのように向きあうべきか」, 日本NPO学会第24回年次大会, 2022年6月)
+
+(in Japanese) **Terashita, Kazuhiro**. How Women’s Organizations Influence Welfare Budgets: Evidence from Local Governments in Korea. *Public Policy Studies Association Japan*, Tokyo, Jun. 2022. <br>  (=「女性団体は福祉予算にどのような影響を与えるのか:韓国の地方自治体を事例に」, 日本公共政策学会2022年度総会・研究大会, 東京, 2022年5月)
+
+(in Japanese) **Terashita, Kazuhiro**. How NPOs Have Confronted Women and Gen- der? : A Study Using Text Mining of Twitter Posts.*The Japan NPO Research Association 23th Annual Meeting*, Online, June 2021.
+ <br> (=「NPO は女性・ジェンダーにどう向き合ってきたのか:Twitter投稿のテキストマイニングによる検討」, 日本NPO学会第23回年次大会, オンライン, 2021年6月)
+
+**Terashita, Kazuhiro**. Strategies and Consequences of Social Movements in Enacting Ordinances: A Qualitative Comparative Analysis of Gender Backlash in Japan. *25th edition of Alternative Futures and Popular Protest*, Online, June 2021.
+
+(in Japanese) **Terashita, Kazuhiro**. The Factor of Civic Participation from Associate Strategy: Qualitative Comparative Analysis (QCA) of River Environmental Activism. *The Japan NPO Research Association 22th Annual Meeting*, Tokyo(Online), Nov. 2020. <br> ( =「団体戦略からみる NPO・市民活動参加の規定要因:河川保全運動の質的比較分析を通じて」, 日本NPO学会第22回年次大会, 東京 (オンライン), 2020年11月)
+
+(in Japanese) **Terashita, Kazuhiro**. The Analysis of Social Movement ’s Influence toward Administrational Measure: Comparative Case Study on the Japanese River Organization Policy, *Japanese Political Science Association 2020 Annual Conference*, Tokyo(Online), Sep. 2020.  <br> ( =「社会運動の行政施策に対する影響力の分析:河川協力団体制度の事例比較を通じて」, 日本政治学会2020年度研究大会, 東京 (オンライン), 2020年9月)
+
+(in Japanese) **Terashita, Kazuhiro**. The Analysis of Civic Advocacy as Coun- tering of Hate Speech in Japan: Comparative Study on the Activities of MINDAN and Grassroots Citizen. *The Japan NPO Research Association 20th Annual Meeting*, Tokyo, June 2018.  <br> ( =「ヘイトスピーチに対抗する市民アドボカシーの分析:民団の請願活動と草の根カウンター運動の比較を通じて」, 日本NPO学会第20回年次大会, 東京, 2018年6月)
+
+## Poster Presentations
+
+(in Japanese) **Terashita, Kazuhiro**. Semi-automation of Protest Event Data Generation Using Natural Language Processing (NLP) : A Case of Korea as a non-English Speaking Country, *Japanese Political Science Association 2022 Annual Conference*, Kyoto, Oct. 2022. <br> ( =「自然言語処理(NLP)を用いた抗議イベントデータ作成の半自動化:非英語圏としての韓国を事例に」, 日本政治学会2022年度研究大会, 京都, 2022年10月)
+
+## Workshop Presentations
+
+(in Japanese) **Terashita, Kazuhiro**. Text Analysis of Korean and Using of Newspaper Article Aata, *Multi-lingual Text Analysis Research Group*, Tokyo, Mar. 2023. <br> (=「韓国語のテキスト分析と新聞記事データの活用」, 多言語テキスト分析研究会, 東京, 2023年3月)
+
+(in Japanese) **Terashita, Kazuhiro**. Do Women’s Organizations Influence Gender Policy?: An Empirical Analysis of Local Government Budgets in Korea. *Gender and Politics Research Workshop in Japan*, Online, Mar. 2022. <br> (=「女性団体はジェンダー政策に影響をもたらすのか:韓国・地方自治体予算の実証分析」, ジェンダーと政治研究会, オンライン, 2022 年3月)
+
+(in Japanese) **Terashita, Kazuhiro**. How Women’s Organizations Affect Welfare Budgets?: An Empirical Analysis in Korean Local Governments. *Social Sector Workshop in Japan*, Online, Mar. 2022. <br> (=「女性団体は福祉予算にどのような影響を与えるか:韓国の地方自治体における実証分析」, ソーシャルセクター研究会, オンライン, 2022年3月)
+
+(in Japanese) **Terashita, Kazuhiro**. How Impact Does Women’s Movement Have on Gender Budgets?: Evidence from Local Governments in Korea. *Japan Early Career Forum on Political Science (JECPS)*, Online, Nov. 2021. <br> (=「女性運動はジェンダー予算にいかなる影響をもたらすのか:韓国の地方自治体を事例に」, 政治学若手研究者フォーラム, オンライン, 2021年11月)
+
+(in Japanese) **Terashita, Kazuhiro**. Strategies of Social Movements and Political Participation: A Qualitative Comparative Analysis of Local Movements on Rivers. *Kobe University Research Workshop in Political Science*, Kobe, Online. July 2020. <br> (=「社会運動の戦略と制度外政治参加:河川をめぐる地域運動の質的比較分析」, 神戸大学政治学研究会, オンライン, 2020年7月)
+
+(in Japanese) **Terashita, Kazuhiro**. Emergence, Persistence, and Change of the ’Comfort Women’ Movement in South Korea. *Kobe University Research Workshop in Political Science*, Kobe, Nov. 2019. <br> (=「韓国における「慰安婦」運動の発生と持続・変化の政治分析」, 神戸大学政治学研究会, 神戸, 2019年11月)
+:::
+
+::: {.no-print}
+
+## Awards, Grants and Fellowship
+
+- [Full CV (in English)](index.pdf)
+- [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
+
+:::
+
+::: {.print-only}
+
+## Awards
+
+Mar. 2023 Doctor of Philosophy in Political Science summa cum laude <br> (= 博士(政治学) 秀逸 / summa cum laude, 2023年3月)
+
+Nov. 2018 Fighting-spirit Award, Research Proposal Contest in Ritsumeikan University <br> (= 2018 年度立命館大学大学院リサーチプロポーザルコンテスト・敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓「慰安婦」問題を事例に」), 2018年11月)
+
+Mar. 2017 Highest Award for Seminar Paper, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
+
+Mar. 2017 All-time Highest Award for Seminar Paper, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
+
+## Grants/Fellowship
+
+**Apr. 2023 --- Mar. 2026** JSPS KAKENHI Grant-in-Aid for JSPS Fellows [JP23KJ1150]{.cvdate} <br> (= 日本学術振興会 科学研究費助成事業 特別研究員奨励費, 2023年4月- 2026年3月)
+
+**Apr. 2022 --- June 2022** Kobe University Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields, Premium Program <br> (= 神戸大学異分野共創による次世代卓越博士人材育成プロジェクト 令和4年度プレミアム・プログラム, 2022年4月-2022年6月)
+
+**Apr. 2022 --- Mar. 2023** Kobe University Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program <br> (= 国立研究開発法人 科学技術振興機構(JST)次世代研究者挑戦的研究プログラム事 業 神戸大学異分野共創による次世代卓越博士人材育成プロジェクト, 2022年4月-2023年3月)
+
+**Apr. 2022 --- Mar. 2023** Suntory Foundation Torii Fellowship / Grant for Individual Research on Society and Culture by Young Researchers <br> (= サントリー文化財団 若手研究者による社会と文化に関する個人研究助成(鳥井フェ ローシップ), 2022年4月-2023年3月)
+
+**Aug. 2021 --- Mar. 2022** JSPS Overseas Challenge Program for Young Researchers <br> (= 日本学術振興会若手研究者海外挑戦プログラム, 2021年8月-2022年3月)
+
+**May. 2019** Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Exemption of half of loan)) <br> (= 日本学生支援機構第一種奨学金特に優れた業績による返還免除(半額)」, 2019年5月)
+
+**Nov. 2018** Ritsumeikan University Grant for the Master ’s Degree Students who Participate in Overseas Education Programs designated by Graduate Schools <br> (= 立命館大学大学院博士課程前期課程研究実践活動補助金・国外研究実践, 2018年11月)
+
+**May 2018** Ritsumeikan University Academic Conference Scholarship <br> (= 立命館大学大学院博士課程前期課程学生学会奨学金・国内学会発表奨励, 2018年6月)
+
+**June 2018** Ritsumeikan University Grant for Student Research Societies (= 立命館大学大学院学生研究会活動支援制度 (研究会名:総合政治学研究会), 2018年6月)
+
+**June 2018** Ritsumeikan University Academic Excellence Scholarship for 2nd Year of Enrollment (Second Year Graduate Scholarships, Rank in the Top 25%) <br> (= 立命館大学大学院2 年次対象成績優秀者奨学金 (成績上位25%), 2018年6月)
+
+**Apr. 2017** Ritsumeikan University Academic Excellence Scholarship for 1st Year of Enrollment (First Year Graduate Scholarships, Rank in the Top 25%) <br> (= 立命館大学大学院1 年次対象成績優秀者奨学金 (成績上位25%), 2017年4月)
+:::
+
+::: {.no-print}
+
+## Languages and Skills
+
+### 言語能力
+日本語(native), 한국어(fluent), English(intermediate)
+
+**Certifications**
+
+- 韓国語能力試験（TOPIK） **6級:最高級**
+    - 듣기(Listening): 92/100
+    - 쓰기(Writing): 58/100
+    - 읽기(Reading): 92/100
+
+### スキル
+
+**統計ソフトウェア**: R, SPSS
+
+ - **統計分析**: 回帰分析, 統計的因果推論, パネルデータ分析
+ - **計量テキスト分析・機械学習**: naïve Bayes, Neural Network, newsmap, Seeded LDA, LSS, LDA etc.
+ - **質的分析手法**: 質的比較分析(QCA)
+
+**その他**: Quarto,L<span style="text-transform:uppercase;font-size:70%;margin-left:-0.36em;vertical-align:0.3em;line-height:0;margin-right:-0.15em">a</span>T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X, Microsoft Office, Apple iWork
+
+:::
+
+::: {.print-only}
+## Languages
+Japanese(native), Korean(fluent), English(intermediate)
+
+### Certifications
+
+ - Test of Proficiency in Korean (TOPIK)
+    - Grade 6 / Highest level
+    - Listening: 92/100 Writing: 58/100 Reading: 92/100
+
+## Skills
+
+**Statistical Computing**: R, SPSS
+
+ - **Statistical Analysis**: Regression Analysis, Causal Inference, Panel Data Analysis
+ - **Quantitative Text Analysis and Machine Learning**: naïve Bayes, Neural Network, newsmap, Seeded LDA, LSS, LDA etc.
+ - **Qualitative Methods**: QCA
+
+**Others**: Quarto,L<span style="text-transform:uppercase;font-size:70%;margin-left:-0.36em;vertical-align:0.3em;line-height:0;margin-right:-0.15em">a</span>T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X, Microsoft Office, Apple iWork
+
+:::
+
+## Proffesional Affiliations
+### Academic Society
+
+::: {.no-print}
+日本NPO学会 [2018 – Curr.]{.cvdate}
+
+日本政治学会 [2019 – Curr.]{.cvdate}
+
+日本選挙学会 [2021 – Curr.]{.cvdate}
+
+International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
+
+日本比較政治学会 [2022 – Curr.]{.cvdate}
+
+日本公共政策学会 [2022 – Curr.]{.cvdate}
+
+:::
+
+
+::: {.print-only}
+Japan NPO Research Association [2018 – Curr.]{.cvdate}
+
+Japanese Political Science Association [2019 – Curr.]{.cvdate}
+
+Japanese Association of Electoral Studies [2021 – Curr.]{.cvdate}
+
+International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
+
+Japan Association for Comparative Politics [2022 – Curr.]{.cvdate}
+
+Public Policy Studies Association JAPAN [2022 – Curr.]{.cvdate}
+
+:::
+
+### Research Workshop
+::: {.no-print}
+神戸大学政治学研究会 [2019 – Curr.]{.cvdate}
+
+質的調査研究会 [2019 – Curr.]{.cvdate}
+
+ソーシャルセクター研究会 [2019 – Curr.]{.cvdate}
+
+政治学若手研究者フォーラム [2020 – Curr.]{.cvdate}
+
+ジェンダーと政治研究会 [2021 – Curr.]{.cvdate}
+
+多言語テキスト分析研究会 [2022 - Curr.]{.cvdate}
+
+京都大学現代政治ワークショップ [2023 – Curr.]{.cvdate}
+
+関西政治経済学研究会（Y&R） [2023 – Curr.]{.cvdate}
+
+:::
+
+::: {.print-only}
+Kobe University Research Workshop in Political Science [2019 – Curr.]{.cvdate}
+
+Qualitative Analysis Workshop in Kansai, Japan [2019 – Curr.]{.cvdate}
+
+Social Sector Workshop in Japan [2019 – Curr.]{.cvdate}
+
+Japan Early Career Forum on Political Science (JECPS) [2020 – Curr.]{.cvdate}
+
+Gender and Politics Research Workshop in Japan [2021 – Curr.]{.cvdate}
+
+Multi-lingual Text Analysis Research Group [2023 - Curr.]{.cvdate}
+
+Kyoto University Research Workshop in Political Science [2023 – Curr.]{.cvdate}
+
+Political Economy Research Workshop in Kansai (Y&R)  [2023 – Curr.]{.cvdate}
+
+:::
+
+
