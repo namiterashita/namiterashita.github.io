@@ -345,6 +345,9 @@ ernance, Korean Politics, Japanese Politics
 
 ## Conference Presentations
 
+**Terashita, Kazuhiro** Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Dec. 2023.
+
+
 (in Japanese) **Kazuhiro Terashita**. Political Events and Protests in Korea: A Semi-automated Protest Event Analysis. *Japanese Political Science Association 2023 Annual Conference*, Tokyo, Sep. 2023. <br> (=「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」, 日本政治学会2023年度研究大会, 東京, 2023年9月)
 
 (in Japanese) Okura, Sae, Mari Miura, Sachi Kotani, Mi-jin Kim, **Kazuhiro Terashita**, Haruya Sakamoto, and Ryo Kikuchi. Panel: Gender Inequality in Japanese Politics and Society and Women’s Movements and Organizations: Results of a Questionnaire Survey. *The Japan NPO Research Association 25th Annual Meeting*, Kyoto, June 2023.  <br> (=「パネル:日本の政治・社会におけるジェンダー不平等と女性運動・女性団体:アンケート調査の結果から」, 日本NPO学会第25回年次大会, 京都, 2023年6月)
@@ -373,10 +376,11 @@ ernance, Korean Politics, Japanese Politics
 (in Japanese) **Terashita, Kazuhiro**. Semi-automation of Protest Event Data Generation Using Natural Language Processing (NLP) : A Case of Korea as a non-English Speaking Country, *Japanese Political Science Association 2022 Annual Conference*, Kyoto, Oct. 2022. <br> ( =「自然言語処理(NLP)を用いた抗議イベントデータ作成の半自動化:非英語圏としての韓国を事例に」, 日本政治学会2022年度研究大会, 京都, 2022年10月)
 
 ## Workshop Presentations
+(in Japanese) **Terashita, Kazuhiro**. Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea, *Kyoto University Research Workshop in Political Science*, Kyoto, Nov. 2023. <br> (=「誰が『移民女性』を代表するのか：韓国における地方議会議事録を用いた実証分析」, 京都大学現代政治ワークショップ, 京都, 2023年11月)
 
 (in Japanese) **Terashita, Kazuhiro**. Text Analysis of Korean and Using of Newspaper Article Aata, *Multi-lingual Text Analysis Research Group*, Tokyo, Mar. 2023. <br> (=「韓国語のテキスト分析と新聞記事データの活用」, 多言語テキスト分析研究会, 東京, 2023年3月)
 
-(in Japanese) **Terashita, Kazuhiro**. Do Women’s Organizations Influence Gender Policy?: An Empirical Analysis of Local Government Budgets in Korea. *Gender and Politics Research Workshop in Japan*, Online, Mar. 2022. <br> (=「女性団体はジェンダー政策に影響をもたらすのか:韓国・地方自治体予算の実証分析」, ジェンダーと政治研究会, オンライン, 2022 年3月)
+(in Japanese) **Terashita, Kazuhiro**. Do Women’s Organizations Influence Gender Policy?: An Empirical Analysis of Local Government Budgets in Korea. *Gender and Politics Research Workshop in Japan*, Online, Mar. 2022. <br> (=「女性団体はジェンダー政策に影響をもたらすのか:韓国・地方自治体予算の実証分析」, ジェンダーと政治研究会, オンライン, 2022年3月)
 
 (in Japanese) **Terashita, Kazuhiro**. How Women’s Organizations Affect Welfare Budgets?: An Empirical Analysis in Korean Local Governments. *Social Sector Workshop in Japan*, Online, Mar. 2022. <br> (=「女性団体は福祉予算にどのような影響を与えるか:韓国の地方自治体における実証分析」, ソーシャルセクター研究会, オンライン, 2022年3月)
 
@@ -384,7 +388,7 @@ ernance, Korean Politics, Japanese Politics
 
 (in Japanese) **Terashita, Kazuhiro**. Strategies of Social Movements and Political Participation: A Qualitative Comparative Analysis of Local Movements on Rivers. *Kobe University Research Workshop in Political Science*, Kobe, Online. July 2020. <br> (=「社会運動の戦略と制度外政治参加:河川をめぐる地域運動の質的比較分析」, 神戸大学政治学研究会, オンライン, 2020年7月)
 
-(in Japanese) **Terashita, Kazuhiro**. Emergence, Persistence, and Change of the ’Comfort Women’ Movement in South Korea. *Kobe University Research Workshop in Political Science*, Kobe, Nov. 2019. <br> (=「韓国における「慰安婦」運動の発生と持続・変化の政治分析」, 神戸大学政治学研究会, 神戸, 2019年11月)
+(in Japanese) **Terashita, Kazuhiro**. Emergence, Persistence, and Change of the ’Comfort Women’ Movement in South Korea. *Kobe University Research Workshop in Political Science*, Kobe, Nov. 2019. <br> (=「韓国における『慰安婦』運動の発生と持続・変化の政治分析」, 神戸大学政治学研究会, 神戸, 2019年11月)
 :::
 
 ::: {.no-print}
