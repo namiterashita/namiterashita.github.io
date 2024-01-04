@@ -14,8 +14,6 @@ website:
   navbar:
     search: true
     left:
-      - href: index.qmd
-        text: Home
       - text: "CV"
         href: cv/index.qmd
       - text: "Research"
