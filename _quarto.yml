@@ -8,7 +8,7 @@ lang: ja
 website:
   site-url: "https://www.kazuhiroterashita.com/"
   title: "Kazuhiro Terashita"
-  page-footer: "Copyright 2023, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
+  page-footer: "Copyright 2024, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
   google-analytics: "G-9CQKQ3Z1YQ"
   favicon: "pic/favicon.png"
   navbar:
