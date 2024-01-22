@@ -315,7 +315,6 @@ Mail: kazuhiroterashita [at] outlook.jp
 ## Works in Progress
 ### Women’s Organization and Gender Policy in Korea
 
-- **[Accepted]** Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea (in Japanese)
 - Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in Korea
 - Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
 - Women’s Organizations and Elections: Understanding the Commitment of Women’s Organizations to Elections through Participatory Observation
@@ -330,6 +329,8 @@ Mail: kazuhiroterashita [at] outlook.jp
 - Automated/Semi-Automated Protest Event Analysis in Asia
 
 ## Journal Articles
+
+ (in Japanese) **Terashita, Kazuhiro**. forthcoming. Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea. *Journal of Public Policy Studies* 23: 139-155.<br> (=「女性団体の活動は福祉予算に影響を及ぼすのか：韓国・地方自治体の抗議イベントデータを用いた実証分析」, 『公共政策研究』23: 139-155.)
 
 (in Japanese) **Terashita, Kazuhiro**. 2023. What is Gender Budgeting? : A Literature Review and Case of South Korea. *The Rokkodai Ronshu. Law & Political Science* 69(2): 99-123. <br> (=「ジェンダー予算とは何か:文献レビューと韓国の事例から」『六甲台論集. 法学政治学編』69(2):99-123.)
 
