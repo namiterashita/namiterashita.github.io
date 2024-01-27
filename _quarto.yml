@@ -25,6 +25,10 @@ website:
         href: https://twitter.com/namiterashita
       - icon: instagram
         href: https://www.instagram.com/namiterashita/
+      - text: "{{< iconify bi threads size=20px >}}" #quarto add mcanouil/quarto-iconify の実行が必要
+        href: https://www.threads.net/@namiterashita
+      - text: "{{< iconify material-symbols edit-note size=23px >}}"
+        href: https://note.com/namiterashita
       - icon: github
         href: https://github.com/namiterashita
       - icon: caret-right
@@ -38,5 +42,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
