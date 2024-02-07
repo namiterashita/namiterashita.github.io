@@ -85,27 +85,25 @@ toc-depth: 5
 
 #### Women's Organization and Gender Policy in Korea
 
-1.  **\[Accepted\]** 女性団体の活動は福祉予算に影響を及ぼすのか――韓国・地方自治体の抗議イベントデータを用いた実証分析
+1.  Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in Korea
 
-2.  Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in Korea
+1.  Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
 
-3.  Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
+1.  女性団体と選挙――参与観察を通じた女性団体の選挙へのコミットメントの解明
 
-4.  女性団体と選挙――参与観察を通じた女性団体の選挙へのコミットメントの解明
-
-5.  女性団体・運動は女性の実質的代表に影響を与えるのか：韓国の議会議事録を用いた実証分析
+1.  女性団体・運動は女性の実質的代表に影響を与えるのか：韓国の議会議事録を用いた実証分析
 
 #### Women's Organization and Gender Policy in Japan
 
-6.  日本の市民社会における女性の政治的代表
+5.  日本の市民社会における女性の政治的代表
 
-7.  日本における女性団体の新聞報道の偏り
+5.  日本における女性団体の新聞報道の偏り
 
-8.  日本の地域女性団体の運動とジェンダー政策
+5.  日本の地域女性団体の運動とジェンダー政策
 
 #### Automatized Protest Event Analysis in Asia
 
-9.  抗議イベント分析の自動化/半自動化
+8.  抗議イベント分析の自動化/半自動化
 
 ### Awards
 
