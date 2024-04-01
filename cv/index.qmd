@@ -314,20 +314,31 @@ Mail: kazuhiroterashita [at] outlook.jp
 ::: {.print-only}
 
 ## Works in Progress
-### Women’s Organization and Gender Policy in Korea
 
-- Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in Korea
-- Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
-- Women’s Organizations and Elections: Understanding the Commitment of Women’s Organizations to Elections through Participatory Observation
-- Whether Women’s Organizations and Movements Influence Women’s Substantive Representation: An Empirical Analysis Using Korean Parliamentary Proceeding
+### Women’s Organization and Gender Policy in South Korea
+- **[Under Review]** (in Japanese)Electoral Mobilization of Womens Organizations under Political Constraints: A Participant Observation Study of the Gyeongsangnam-do Provincial Assembly Election in South Korea
+- Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in South Korea
+- Policy Process for Gentrification of Red-light Districts(RLDs) in South Korea
+- Influence of Feminist Movements for Women’s Substantive Representation
+
+### Immigration Policies and Political Representation in South Korea
+- Political Representation of 'Immigrant Women' in South Korea
+- Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis
 
 ### Women’s Organization and Gender Policy in Japan
-- Political Representation of Women in Civil Society in Japan
-- Biased Newspaper Coverage of Women’s Organizations in Japan
+- Political Representation of Women in Japanese Civil Society
 - Women’s Organization and Gender Policy in Japan
+
+### Measuring News Bias in the Coverage of ‘Women’s Organizations’
+- Biased Coverage of Women’s Organizations in Japan and South Korea
 
 ### Automatized Protest Event Analysis in Asia
 - Automated/Semi-Automated Protest Event Analysis in Asia
+
+<!--
+### Regional Differences in Punishment in Japan
+- Establishment of a database for sentencing in Japan(w/ Wakana Kuremoto and Mamika Ono)
+-->
 
 ## Journal Articles
 
