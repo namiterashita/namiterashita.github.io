@@ -76,7 +76,7 @@ cat(today)
 -  日本学術振興会 特別研究員PD
    -  受入研究機関：京都大学 公共政策連携研究部・教育部
    -  受入研究者：曽我謙悟先生
--  延世大学 政治外交学科 訪問研究員（2024年３月〜）
+-  延世大学 政治外交学科 訪問研究員（2024年3月〜）
 
 :::
 
@@ -316,7 +316,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 ## Works in Progress
 
 ### Women’s Organization and Gender Policy in South Korea
-- **[Under Review]** (in Japanese)Electoral Mobilization of Womens Organizations under Political Constraints: A Participant Observation Study of the Gyeongsangnam-do Provincial Assembly Election in South Korea
+- **\[Under Review\]** (in Japanese)Electoral Mobilization of Womens Organizations under Political Constraints: A Participant Observation Study of the Gyeongsangnam-do Provincial Assembly Election in South Korea
 - Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in South Korea
 - Policy Process for Gentrification of Red-light Districts(RLDs) in South Korea
 - Influence of Feminist Movements for Women’s Substantive Representation
@@ -342,7 +342,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ## Journal Articles
 
- (in Japanese) **Terashita, Kazuhiro**. 2023. Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea. *Journal of Public Policy Studies* 23: 139-155.<br> (=「女性団体の活動は福祉予算に影響を及ぼすのか：韓国・地方自治体の抗議イベントデータを用いた実証分析」, 『公共政策研究』23: 139-155.)
+(in Japanese) **Terashita, Kazuhiro**. 2023. Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea. *Journal of Public Policy Studies* 23: 139-155.<br> (=「女性団体の活動は福祉予算に影響を及ぼすのか：韓国・地方自治体の抗議イベントデータを用いた実証分析」, 『公共政策研究』23: 139-155.)
 
 (in Japanese) **Terashita, Kazuhiro**. 2023. What is Gender Budgeting? : A Literature Review and Case of South Korea. *The Rokkodai Ronshu. Law & Political Science* 69(2): 99-123. <br> (=「ジェンダー予算とは何か:文献レビューと韓国の事例から」『六甲台論集. 法学政治学編』69(2):99-123.)
 
@@ -354,11 +354,15 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 (in Japanese) **Terashita, Kazuhiro**. 2022. Book Review: Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019. *Japanese Journal of Electoral Studies* 38(1): 126–7. <br> (=「書評:Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019」『選挙研究』38(1): 126–7.)
 
-
 ## Conference Presentations
 
-**Terashita, Kazuhiro** Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Dec. 2023.
+**\[Scheduled\]** **Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.
 
+**\[Scheduled\]** **Terashita, Kazuhiro**. Measuring News Bias in the Coverage of ‘Women’s Organizations’: A Comparative Latent Semantic Scaling Analysis in South Korea and Japan. *8th Annual Association for Research on Nonprofit Organizations and Voluntary Action(ARNOVA) Asia Conference*, Seoul, June 2024.
+
+**\[Scheduled\]** **Terashita, Kazuhiro**. Inheriting Negative History: Feminist Movements and the Transformation of Red-light Districts in South Korea. *28th edition of Alternative Futures and Popular Protest*, Manchester, June 2024.
+
+**Terashita, Kazuhiro** Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Dec. 2023.
 
 (in Japanese) **Kazuhiro Terashita**. Political Events and Protests in Korea: A Semi-automated Protest Event Analysis. *Japanese Political Science Association 2023 Annual Conference*, Tokyo, Sep. 2023. <br> (=「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」, 日本政治学会2023年度研究大会, 東京, 2023年9月)
 
