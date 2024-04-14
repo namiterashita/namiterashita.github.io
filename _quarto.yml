@@ -10,7 +10,7 @@ website:
   title: "Kazuhiro Terashita"
   page-footer: "Copyright 2024, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
   google-analytics: "G-9CQKQ3Z1YQ"
-  favicon: "pic/favicon.png"
+  favicon: "pic/favicon2.png"
   navbar:
     search: true
     left:
