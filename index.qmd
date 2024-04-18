@@ -18,6 +18,7 @@ My research interests are social movements and civil society in Korea and Japan.
 -   [CV](cv/index.qmd)
 -   [Research](research/index.qmd)
 -   [Teaching](teaching/index.qmd)
+- [한국어 사이트](https://papago.naver.net/website?source=ja&target=ko&url=https://kazuhiroterashita.com) : Papago 번역기
 :::
 
 ::: callout-note
