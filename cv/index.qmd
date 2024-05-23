@@ -113,7 +113,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 **Ph.D.** in Political Science <br> *Kobe University* [*Apr. 2019 --- Mar. 2023*]{.cvdate}
 
 - Supervisor: Prof. Yutaka Onishi
-- Thesis Title: Women’s Organization and Gender Policy in Korea: An Empirical Study on the Political Consequences of Civil Society <br> (= 韓国における女性団体とジェンダー政策---市民社会の政治的帰結に関する実証研究)
+- Thesis Title: Women’s Organization and Gender Policy in Korea: An Empirical Study on the Political Consequences of Civil Society <br> (= 韓国における女性団体とジェンダー政策:市民社会の政治的帰結に関する実証研究)
    - The examiners: Prof. Yutaka Onishi (Chief), Prof. Yosuke Sunahara (Sub-chief), Prof. Naofumi Fujimura (Sub-chief)
    
 **Master** of International Relations <br> *Ritsumeikan University* [*Apr. 2017 --- Mar. 2019*]{.cvdate}
@@ -149,7 +149,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 **2023年3月　神戸大学大学院法学研究科博士課程後期課程　修了**
 
 -   **博士（政治学）**, 神戸大学
--   博士学位論文「韓国における女性団体とジェンダー政策---市民社会の政治的帰結に関する実証研究」
+-   博士学位論文「韓国における女性団体とジェンダー政策：市民社会の政治的帰結に関する実証研究」
     -   主査：大西裕先生
     -   副査：砂原庸介先生, 藤村直史先生
 
@@ -180,15 +180,15 @@ Mail: kazuhiroterashita [at] outlook.jp
 ## Area of Specialization
 
 ::: {.no-print}
-**比較政治学**：社会運動、官民協働、ローカル・ガバナンス、韓国政治、日本政治
+**比較政治学**：社会運動、官民連携、ローカル・ガバナンス、韓国政治、日本政治
 
-**市民社会論**：女性運動、フェミニズム、反差別運動、河川保全運動、「新しい社会運動」、政治的帰結
+**市民社会論**：女性運動、フェミニズム、政治的帰結、反差別運動、河川保全運動、「新しい社会運動」
 :::
 
 ::: {.print-only}
 **Comparative Politics** : Social Movements, Public-Private Partnership, Local Governance, Korean Politics, Japanese Politics
 
-**Civil Society** : Women’s Activism, Feminism, Anti-Discrimination Activism, River Activism, New Social Movements, Political Outcome
+**Civil Society** : Women’s Activism, Feminism, Political Outcome, Anti-Discrimination Activism, River Activism, New Social Movements
 :::
 
 
@@ -253,6 +253,10 @@ Mail: kazuhiroterashita [at] outlook.jp
 :::
 
 ::: {.print-only}
+
+**Visiting Scholar** [Mar. 2024 --- Curr.]{.cvdate}
+
+- Department of Political Science and Diplomacy, Yonsei University
 
 **Program-Specific Researcher** [Oct. 2023 --- Curr.]{.cvdate}
 
@@ -420,13 +424,15 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ## Awards
 
-Mar. 2023 Doctor of Philosophy in Political Science summa cum laude <br> (= 博士(政治学) 秀逸 / summa cum laude, 2023年3月)
+May 2024 *Best Presentation Award*, Japanese Association of Electoral Studies <br> (= 日本選挙学会優秀報告賞, 2024年5月)
 
-Nov. 2018 Fighting-spirit Award, Research Proposal Contest in Ritsumeikan University <br> (= 2018 年度立命館大学大学院リサーチプロポーザルコンテスト・敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓「慰安婦」問題を事例に」), 2018年11月)
+Mar. 2023 Doctor of Philosophy in Political Science *summa cum laude* <br> (= 博士(政治学) 秀逸 / summa cum laude, 2023年3月)
 
-Mar. 2017 Highest Award for Seminar Paper, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
+Nov. 2018 *Fighting-spirit Award*, Research Proposal Contest in Ritsumeikan University <br> (= 2018 年度立命館大学大学院リサーチプロポーザルコンテスト・敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓「慰安婦」問題を事例に」), 2018年11月)
 
-Mar. 2017 All-time Highest Award for Seminar Paper, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
+Mar. 2017 *Best Seminar Paper Aword*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
+
+Mar. 2017 *All-time Best Seminar Paper Aword*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
 
 ## Grants/Fellowship
 
@@ -517,6 +523,8 @@ International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
 
 日本公共政策学会 [2022 – Curr.]{.cvdate}
 
+現代韓国朝鮮学会 [2024 – Curr.]{.cvdate}
+
 :::
 
 
@@ -532,6 +540,8 @@ International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
 Japan Association for Comparative Politics [2022 – Curr.]{.cvdate}
 
 Public Policy Studies Association JAPAN [2022 – Curr.]{.cvdate}
+
+Association for Contemporary Korean Studies in Japan [2024 – Curr.]{.cvdate}
 
 :::
 
