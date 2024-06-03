@@ -15,13 +15,25 @@ My research interests are social movements and civil society in Korea and Japan.
 ::: callout-note
 ## Menu
 
--   [CV](cv/index.qmd)
--   [Research](research/index.qmd)
--   [Teaching](teaching/index.qmd)
+-   [CV](cv/index.qmd): 寺下の履歴書
+-   [Research](research/index.qmd): 寺下の研究・業績
+-   [Teaching](teaching/index.qmd): 寺下が担当する授業（受講生向け）
 - [한국어 사이트](https://papago.naver.net/website?source=ja&target=ko&url=https://kazuhiroterashita.com) : Papago 번역기
 :::
 
-::: callout-note
+::: callout-tip
+## Social Media and Others
+
+- [researchmap](https://researchmap.jp/kazuhiroterashita)
+- [Github](https://github.com/namiterashita)
+- [note(blog)](https://note.com/namiterashita)
+- [Twitter](https://twitter.com/namiterashita)
+- [Threads](https://www.threads.net/@namiterashita)
+- [Instagram](https://www.instagram.com/namiterashita/)
+
+:::
+
+::: callout-important
 ## Scheduled
 
 **Terashita, Kazuhiro**. Inheriting Negative History: Feminist Movements and the Transformation of Red-light Districts in South Korea. *28th edition of Alternative Futures and Popular Protest*, Manchester, June 2024.
