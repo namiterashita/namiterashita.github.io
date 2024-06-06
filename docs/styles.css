@@ -9,11 +9,11 @@ figcaption {
     padding-right: 3px;
     border-width: 1px;
     border-style: solid;
-    border-color: #CC66FF;
+    border-color: #b21efc;
     border-radius: 3px;
     font-weight: 500;
-    font-size: 15px;
-    color: #CC66FF;
+    font-size: 17px;
+    color: #b21efc;
 }
 
 .btn > a:hover {

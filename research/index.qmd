@@ -89,7 +89,7 @@ toc-depth: 5
 
 1.  Policy Process for Gentrification of Red-light Districts(RLDs) in Korea
 
-1.  女性団体と選挙――参与観察を通じた女性団体の選挙へのコミットメントの解明
+1.  参与観察を通じた女性団体の選挙へのコミットメントの解明
 
 1.  女性団体・運動は女性の実質的代表に影響を与えるのか：韓国の議会議事録を用いた実証分析
 
@@ -97,15 +97,18 @@ toc-depth: 5
 
 5.  日本の市民社会における女性の政治的代表
 
-5.  日本における女性団体の新聞報道の偏り
-
 5.  日本の地域女性団体の運動とジェンダー政策
+
+#### Measuring News Bias in the Coverage of ‘Women’s Organizations’
+7. Biased Coverage of Women’s Organizations in Japan and South Korea
 
 #### Automatized Protest Event Analysis in Asia
 
 8.  抗議イベント分析の自動化/半自動化
 
 ### Awards
+
+1. 「日本選挙学会優秀報告賞」, 2024年5月. 
 
 1.  「博士（政治学） 秀逸 summa cum laude / 神戸大学大学院法学研究科」, 2023年3月.
 
