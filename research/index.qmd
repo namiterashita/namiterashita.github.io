@@ -35,6 +35,10 @@ toc-depth: 5
 
 #### International Conference
 
+1. **Terashita, Kazuhiro**. Measuring News Bias in the Coverage of ‘Women’s Organizations’: A Comparative Latent Semantic Scaling Analysis in South Korea and Japan. *8th Annual Association for Research on Nonprofit Organizations and Voluntary Action(ARNOVA) Asia Conference*, Seoul, June 2024. [[Paper/Slide](https://github.com/namiterashita/ARNOVA2024)[Reference](https://www.arnova.org/asia_2024-schedule/)]{.btn}
+
+1. **Terashita, Kazuhiro**. Inheriting Negative History: Feminist Movements and the Transformation of Red-light Districts in South Korea. *28th edition of Alternative Futures and Popular Protest*, Manchester, June 2024. [[Paper/Slide](https://github.com/namiterashita/AFPP2024)[Reference](https://www.movements.manchester.ac.uk/afpp/afpp-2024-programme/)]{.btn}
+
 1. **Terashita, Kazuhiro** "Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea." Korean Political Science Association 2023 Annual Meeting, Seoul, Oral presentation, Dec. 2023. [[Paper/Slide](https://github.com/namiterashita/KPSA2023) [Appendix](https://kazuhiroterashita.com/KPSA2023/appendix)[Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004025001&cid=23112419002524&bbs_type=B)]{.btn}
 
 1.  **Terashita, Kazuhiro**, "How Do Women's Organizations Influence Welfare Budgets? : Empirical Evidence from Local Governments in South Korea." International Society for Third-Sector Research 15th International Conference, Montreal, Oral presentation, July 2022, **査読あり**. [[Reference](https://tinyurl.com/223gr3pz)]{.btn}
