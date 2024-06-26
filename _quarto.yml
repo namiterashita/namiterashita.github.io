@@ -36,9 +36,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: flatly
-      dark: darkly
+    theme: Minty
     css: styles.css
     toc: true
 
