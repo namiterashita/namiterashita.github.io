@@ -33,9 +33,12 @@ My research interests are social movements and civil society in Korea and Japan.
 
 :::
 
+<!--
+
 ::: callout-important
 ## Scheduled
 
-**Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.
 
 :::
+
+-->

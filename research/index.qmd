@@ -40,6 +40,10 @@ toc-depth: 5
 
 #### International Conference
 
+1. **Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.\
+[Paper/Slide](https://github.com/namiterashita/ISTR2024){.btn .btn-outline-success .btn-sm}
+[Reference](https://tinyurl.com/2yp35yfm){.btn .btn-outline-success .btn-sm}
+
 1. **Terashita, Kazuhiro**. Measuring News Bias in the Coverage of ‘Women’s Organizations’: A Comparative Latent Semantic Scaling Analysis in South Korea and Japan. *8th Annual Association for Research on Nonprofit Organizations and Voluntary Action(ARNOVA) Asia Conference*, Seoul, June 2024.\
 [Paper/Slide](https://github.com/namiterashita/ARNOVA2024){.btn .btn-outline-success .btn-sm}
 [Reference](https://www.arnova.org/asia_2024-schedule/){.btn .btn-outline-success .btn-sm}
