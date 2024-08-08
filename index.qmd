@@ -33,12 +33,14 @@ My research interests are social movements and civil society in Korea and Japan.
 
 :::
 
-<!--
 
 ::: callout-important
 ## Scheduled
 
+- 2024年8月21-23日: 韓国政治学会夏季国際学術大会（至釜山・東西大学校センタムキャンパス・ラマダアンコール海雲台）
+    - 곽선우, 정주현, 조은미, **Kazuhiro Terashita**. "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산.\
+    (= クァク・ソヌ, チョン・ジュヒョン, チョ・ウンミ, 寺下和宏.「国家議員の類型と地理的プロフィールに応じた地理的代表性：国会会議録発言の地理的推定を用いた実証分析」『韓国政治学会2024夏季国際学術大会』, 釜山)\
+    [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002002001&cid=24080715484265&bbs_type=B){.btn .btn-outline-success .btn-sm}
 
 :::
 
--->
