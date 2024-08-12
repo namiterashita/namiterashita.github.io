@@ -38,7 +38,14 @@ toc-depth: 5
 
 ### Presentation
 
-#### International Conference
+#### Conference Presentations
+
+<!--
+1. 곽선우, 정주현, 조은미, **Kazuhiro Terashita**. "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산.\
+    (= クァク・ソヌ, チョン・ジュヒョン, チョ・ウンミ, 寺下和宏.「国家議員の類型と地理的プロフィールに応じた地理的代表性：国会会議録発言の地理的推定を用いた実証分析」『韓国政治学会2024夏季国際学術大会』, 釜山)\
+    [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002002001&cid=24080715484265&bbs_type=B){.btn .btn-outline-success .btn-sm}
+
+-->
 
 1. **Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.\
 [Paper/Slide](https://github.com/namiterashita/ISTR2024){.btn .btn-outline-success .btn-sm}
@@ -52,18 +59,9 @@ toc-depth: 5
 [Paper/Slide](https://github.com/namiterashita/AFPP2024){.btn .btn-outline-success .btn-sm}
 [Reference](https://www.movements.manchester.ac.uk/afpp/afpp-2024-programme/){.btn .btn-outline-success .btn-sm}
 
-1. **Terashita, Kazuhiro** Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Oral presentation, Dec. 2023.\
+1. **Terashita, Kazuhiro** Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Dec. 2023.\
 [Paper/Slide](https://github.com/namiterashita/KPSA2023){.btn .btn-outline-success .btn-sm} [Appendix](https://kazuhiroterashita.com/KPSA2023/appendix){.btn .btn-outline-success .btn-sm}
 [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004025001&cid=23112419002524&bbs_type=B){.btn .btn-outline-success .btn-sm}
-
-1.  **Terashita, Kazuhiro**, How Do Women's Organizations Influence Welfare Budgets? : Empirical Evidence from Local Governments in South Korea. *International Society for Third-Sector Research 15th International Conference*, Montreal, Oral presentation, July 2022, **査読あり**.\
-[Reference](https://tinyurl.com/223gr3pz){.btn .btn-outline-success .btn-sm}
-
-1.  **Terashita, Kazuhiro**. Strategies and Consequences of Social Movements in Enacting Ordinances: A Qualitative Comparative Analysis of Gender Backlash in Japan. *25th edition of Alternative Futures and Popular Protest*, Online, Oral presentation, June 2021.\
-[Reference](http://www.movements.manchester.ac.uk/afpp/2021-programme/){.btn .btn-outline-success .btn-sm}
-
-#### Domestic Conference
-
 
 1.  **寺下和宏**「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」,『日本政治学会2023年度研究大会』, 東京, 2023年9月. 
 
@@ -71,40 +69,47 @@ toc-depth: 5
 
 1.  **寺下和宏**「女性団体・運動は女性の実質的代表に影響を与えるのか：韓国の議会議事録を用いた実証分析」,『日本選挙学会2023年度総会・研究会』,東京, 2023年5月.
 
-1.  **寺下和宏**「自然言語処理（NLP）を用いた抗議イベントデータ作成の半自動化――非英語圏としての韓国を事例に」, 『日本政治学会2022年度研究大会』, 京都, ポスター報告, 2022年10月.
+1.  **Terashita, Kazuhiro**, How Do Women's Organizations Influence Welfare Budgets? : Empirical Evidence from Local Governments in South Korea. *International Society for Third-Sector Research 15th International Conference*, Montreal, July 2022.\
+[Reference](https://tinyurl.com/223gr3pz){.btn .btn-outline-success .btn-sm}
 
-1.  石本めぐみ, 遠藤智子, **寺下和宏**, 大倉沙江「パネル：NPO・市民活動は女性・ジェンダーにどのように向きあうべきか 」, 『日本NPO学会第24回年次大会』, オンライン, 口頭報告（パネリスト/企画者）, 2022年6月.
+1.  石本めぐみ, 遠藤智子, **寺下和宏**, 大倉沙江「パネル：NPO・市民活動は女性・ジェンダーにどのように向きあうべきか 」, 『日本NPO学会第24回年次大会』, オンライン, 2022年6月.
 
-1.  **寺下和宏**「女性団体は福祉予算にどのような影響を与えるのか：韓国の地方自治体を事例に 」, 『日本公共政策学会2022年度総会・研究大会』, 東京, 口頭報告, 2022年6月.
+1.  **寺下和宏**「女性団体は福祉予算にどのような影響を与えるのか：韓国の地方自治体を事例に」, 『日本公共政策学会2022年度総会・研究大会』, 東京, 2022年6月.
 
-1.  **寺下和宏**「NPO は女性・ジェンダーにどう向き合ってきたのか：Twitter 投稿のテキストマイニングによる検討」, 『日本 NPO 学会第 23 回年次大会』, オンライン, 口頭報告, 2021 年 6 月.
+1.  **Terashita, Kazuhiro**. Strategies and Consequences of Social Movements in Enacting Ordinances: A Qualitative Comparative Analysis of Gender Backlash in Japan. *25th edition of Alternative Futures and Popular Protest*, Online, June 2021.\
+[Reference](http://www.movements.manchester.ac.uk/afpp/2021-programme/){.btn .btn-outline-success .btn-sm}
 
-1.  **寺下和宏**「団体戦略からみるNPO・市民活動参加の規定要因：河川保全運動の質的比較分析を通じて」, 『日本NPO学会第22回年次大会』, オンライン, 口頭報告, 2020年11月.
+1.  **寺下和宏**「NPOは女性・ジェンダーにどう向き合ってきたのか：Twitter投稿のテキストマイニングによる検討」, 『日本NPO学会第23回年次大会』, オンライン, 2021年6月.
 
-1.  **寺下和宏**「社会運動の行政施策に対する影響力の分析：河川協力団体制度の事例比較を通じて」, 『日本政治学会2020年度研究大会』, オンライン, 口頭報告, 2020年9月.
+1.  **寺下和宏**「団体戦略からみるNPO・市民活動参加の規定要因：河川保全運動の質的比較分析を通じて」, 『日本NPO学会第22回年次大会』, オンライン, 2020年11月.
 
-1.  **寺下和宏**「ヘイトスピーチに対抗する市民アドボカシーの分析：民団の請願活動と草の根カウンター運動の比較を通じて」, 『日本NPO学会第20回年次大会』, 東京, 口頭報告, 2018年6月.
+1.  **寺下和宏**「社会運動の行政施策に対する影響力の分析：河川協力団体制度の事例比較を通じて」, 『日本政治学会2020年度研究大会』, オンライン, 2020年9月.
 
-#### Research Workshop
+1.  **寺下和宏**「ヘイトスピーチに対抗する市民アドボカシーの分析：民団の請願活動と草の根カウンター運動の比較を通じて」, 『日本NPO学会第20回年次大会』, 東京, 2018年6月.
 
-1.  **寺下和宏**「誰が『移民女性』を代表するのか：韓国における地方議会議事録を用いた実証分析」, 『京都大学現代政治ワークショップ』, 京都, 口頭報告, 2023年11月.
+#### Poster Presentations
 
-1.  **寺下和宏**「韓国語のテキスト分析と新聞記事データの活用」, 『多言語テキスト分析研究会』, 東京, 口頭報告, 2023年3月.
+1.  **寺下和宏**「自然言語処理（NLP）を用いた抗議イベントデータ作成の半自動化――非英語圏としての韓国を事例に」, 『日本政治学会2022年度研究大会』, 京都, 2022年10月.
 
-1.  **寺下和宏**「女性団体はジェンダー政策に影響をもたらすのか：韓国・地方自治体予算の実証分析」, 『ジェンダーと政治研究会』, オンライン, 口頭報告, 2022年3月.\
+#### Workshop Presentations
+
+1.  **寺下和宏**「誰が『移民女性』を代表するのか：韓国における地方議会議事録を用いた実証分析」, 『京都大学現代政治ワークショップ』, 京都, 2023年11月.
+
+1.  **寺下和宏**「韓国語のテキスト分析と新聞記事データの活用」, 『多言語テキスト分析研究会』, 東京, 2023年3月.
+
+1.  **寺下和宏**「女性団体はジェンダー政策に影響をもたらすのか：韓国・地方自治体予算の実証分析」, 『ジェンダーと政治研究会』, オンライン, 2022年3月.\
 [Reference](https://jpsa-gender.blogspot.com/2022/03/12.html){.btn .btn-outline-success .btn-sm}
 
+1.  **寺下和宏**「女性団体は福祉予算にどのような影響を与えるか：韓国の地方自治体における実証分析」, 『ソーシャルセクター研究会』, オンライン, 2022年3月.
 
-1.  **寺下和宏**「女性団体は福祉予算にどのような影響を与えるか：韓国の地方自治体における実証分析」, 『ソーシャルセクター研究会』, オンライン, 口頭報告, 2022年3月.
-
-1.  **寺下和宏**「女性運動はジェンダー予算にいかなる影響をもたらすのか：韓国の地方自治体を事例に」, 『政治学若手フォーラム』, オンライン, 口頭報告, 2021年11月.\
+1.  **寺下和宏**「女性運動はジェンダー予算にいかなる影響をもたらすのか：韓国の地方自治体を事例に」, 『政治学若手フォーラム』, オンライン, 2021年11月.\
 [Reference](https://sites.google.com/view/jecps/2021%E7%A7%8B){.btn .btn-outline-success .btn-sm}
 
-1.  **寺下和宏**「社会運動の戦略と制度外政治参加：河川をめぐる地域運動の質的比較分析」,『神戸大学政治学研究会』, オンライン, 口頭報告, 2020年7月. 
+1.  **寺下和宏**「社会運動の戦略と制度外政治参加：河川をめぐる地域運動の質的比較分析」,『神戸大学政治学研究会』, オンライン, 2020年7月. 
 
-1.  **寺下和宏**「韓国における『慰安婦』運動の発生と持続・変化の政治分析」,『神戸大学政治学研究会』, 神戸, 口頭報告, 2019年11月. 
+1.  **寺下和宏**「韓国における『慰安婦』運動の発生と持続・変化の政治分析」,『神戸大学政治学研究会』, 神戸, 2019年11月. 
 
-
+<!--
 ### Work in Progress
 
 #### Women's Organization and Gender Policy in Korea
@@ -129,6 +134,8 @@ toc-depth: 5
 #### Automatized Protest Event Analysis in Asia
 
 8.  抗議イベント分析の自動化/半自動化
+
+-->
 
 ### Awards
 

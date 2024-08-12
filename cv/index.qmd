@@ -15,6 +15,7 @@ format:
     
 css: cv.css
 format-links: [pdf]
+CJKmainfont: "NotoSans"
 ---
 ::: {.print-only .contact-block}
 寺下 和宏
@@ -336,12 +337,17 @@ Mail: kazuhiroterashita [at] outlook.jp
 ### Measuring News Bias in the Coverage of ‘Women’s Organizations’
 - Biased Coverage of Women’s Organizations in Japan and South Korea
 
-### Automatized Protest Event Analysis in Asia
-- Automated/Semi-Automated Protest Event Analysis in Asia
+### Automatized Protest Event Analysis in East Asia
+- Automated/Semi-Automated Protest Event Analysis in East Asia
 
 <!--
-### Regional Differences in Punishment in Japan
-- Establishment of a database for sentencing in Japan(w/ Wakana Kuremoto and Mamika Ono)
+
+### Geographical Representation of Korean Nation Assembly(w/ )
+
+- Geographical Representation of the Korean National Assembly: Focusing on the Analysis of the Election System and the Characteristics of the National Assembly
+
+- Regionalism or Geographical Representation?": Analyzing the Influence of Constituency and Party Politics in South Korea
+
 -->
 
 ## Journal Articles
@@ -360,7 +366,11 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ## Conference Presentations
 
-**\[Scheduled\]** **Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.
+<!--
+(in Korean)Kwak Sunwoo, Eunmi Cho, Juhyeon Jeong, and **Kazuhiro Terrashita**. "Geographic Representation by Type and Geographic Profile of National Assembly Members: An Empirical Analysis Using Geographic Estimation of Minutes of National Assembly Meeting," Korean Political Science Association 2024 Summer International Conference, Busan, Aug. 2024.<br> (= "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산, 2024년8월)
+-->
+
+**Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.
 
 **Terashita, Kazuhiro**. Measuring News Bias in the Coverage of ‘Women’s Organizations’: A Comparative Latent Semantic Scaling Analysis in South Korea and Japan. *8th Annual Association for Research on Nonprofit Organizations and Voluntary Action(ARNOVA) Asia Conference*, Seoul, June 2024.
 
