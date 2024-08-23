@@ -321,7 +321,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 ## Works in Progress
 
 ### Women’s Organization and Gender Policy in South Korea
-- (in Japanese)Electoral Mobilization of Womens Organizations under Political Constraints: A Participant Observation Study of the Gyeongsangnam-do Provincial Assembly Election in South Korea
+- (in Japanese) Electoral Mobilization of Womens Organizations under Political Constraints: A Participant Observation Study of the Gyeongsangnam-do Provincial Assembly Election in South Korea
 - Feminist Protests and Gender Policies: Empirical Evidence on Gender Budgeting in South Korea
 - Policy Process for Gentrification of Red-light Districts(RLDs) in South Korea
 - Influence of Feminist Movements for Women’s Substantive Representation
@@ -340,11 +340,11 @@ Mail: kazuhiroterashita [at] outlook.jp
 ### Automatized Protest Event Analysis in East Asia
 - Automated/Semi-Automated Protest Event Analysis in East Asia
 
+### Geographical Representation of Korean Nation Assembly
+
+- (in Korean) Geographical Representation of the Korean National Assembly: Focusing on the Analysis of the Election System and the Characteristics(w/ Sunwoo Kwak, Eunmi Cho and Juhyeon Jeong)
+
 <!--
-
-### Geographical Representation of Korean Nation Assembly(w/ )
-
-- Geographical Representation of the Korean National Assembly: Focusing on the Analysis of the Election System and the Characteristics of the National Assembly
 
 - Regionalism or Geographical Representation?": Analyzing the Influence of Constituency and Party Politics in South Korea
 
@@ -365,10 +365,9 @@ Mail: kazuhiroterashita [at] outlook.jp
 (in Japanese) **Terashita, Kazuhiro**. 2022. Book Review: Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019. *Japanese Journal of Electoral Studies* 38(1): 126–7. <br> (=「書評:Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019」『選挙研究』38(1): 126–7.)
 
 ## Conference Presentations
+Note: * means a presenter.
 
-<!--
-(in Korean)Kwak Sunwoo, Eunmi Cho, Juhyeon Jeong, and **Kazuhiro Terrashita**. "Geographic Representation by Type and Geographic Profile of National Assembly Members: An Empirical Analysis Using Geographic Estimation of Minutes of National Assembly Meeting," Korean Political Science Association 2024 Summer International Conference, Busan, Aug. 2024.<br> (= "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산, 2024년8월)
--->
+(in Korean) Kwak, Sunwoo\*, Eunmi Cho, Juhyeon Jeong, and **Kazuhiro Terashita**. "Geographic Representation by Type and Geographic Profile of National Assembly Members: An Empirical Analysis Using Geographic Estimation of National Assembly Minutes," *Korean Political Science Association 2024 Summer International Conference*, Busan, Aug. 2024.<br> (= "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산, 2024년8월)
 
 **Terashita, Kazuhiro**. Does Feminism Represent 'Immigrant Women'?: Examining the Political Representation of Feminist Protests in South Korea Using Protest Event Analysis. *International Society for Third Sector Research 16th International Conference*, Antwerp, July 2024.
 
@@ -378,19 +377,19 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 **Terashita, Kazuhiro**. Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea. *Korean Political Science Association 2023 Annual Meeting*, Seoul, Dec. 2023.
 
-(in Japanese) **Kazuhiro Terashita**. Political Events and Protests in Korea: A Semi-automated Protest Event Analysis. *Japanese Political Science Association 2023 Annual Conference*, Tokyo, Sep. 2023. <br> (=「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」, 日本政治学会2023年度研究大会, 東京, 2023年9月)
+(in Japanese) **Terashita, Kazuhiro**. Political Events and Protests in Korea: A Semi-automated Protest Event Analysis. *Japanese Political Science Association 2023 Annual Conference*, Tokyo, Sep. 2023. <br> (=「韓国における政治イベントと抗議行動：Semi-automated Protest Event Analysisによる検討」, 日本政治学会2023年度研究大会, 東京, 2023年9月)
 
-(in Japanese) Okura, Sae, Mari Miura, Sachi Kotani, Mi-jin Kim, **Kazuhiro Terashita**, Haruya Sakamoto, and Ryo Kikuchi. Panel: Gender Inequality in Japanese Politics and Society and Women’s Movements and Organizations: Results of a Questionnaire Survey. *The Japan NPO Research Association 25th Annual Meeting*, Kyoto, June 2023.  <br> (=「パネル:日本の政治・社会におけるジェンダー不平等と女性運動・女性団体:アンケート調査の結果から」, 日本NPO学会第25回年次大会, 京都, 2023年6月)
+(in Japanese) Okura, Sae\*, Mari Miura, Sachi Kotani, Mi-jin Kim, **Kazuhiro Terashita**\*, Haruya Sakamoto, and Ryo Kikuchi. Panel: Gender Inequality in Japanese Politics and Society and Women’s Movements and Organizations: Results of a Questionnaire Survey. *The Japan NPO Research Association 25th Annual Meeting*, Kyoto, June 2023.  <br> (=「パネル:日本の政治・社会におけるジェンダー不平等と女性運動・女性団体:アンケート調査の結果から」, 日本NPO学会第25回年次大会, 京都, 2023年6月)
 
 (in Japanese) **Terashita, Kazuhiro**. Do Women’s Organizations and Movements Influence Women’s Substantive Representation: An Empirical Analysis Using Korean Parliamentary Proceedings. *Japanese Association of Electoral Studies 2023 Annual Conference*, Tokyo, May. 2023. <br> (=「女性団体・運動は女性の実質的代表に影響を与えるのか：韓国の議会議事録を用いた実証分析」, 日本選挙学会2023年度総会・研究会, 東京, 2023年5月)
 
 **Terashita, Kazuhiro**. How Do Women’s Organizations Influence Welfare Budgets?: Empirical Evidence from Local Governments in South Korea. *International Society for Third-Sector Research 15th International Conference*, Montreal, July 2022.
 
-(in Japanese) Ishimoto, Megumi, Tomoko Endo, **Kazuhiro Terashita**, and Sae Okura. Panel: How should NPOs and Civic Activities Deal with Women and Gender? *The Japan NPO Research Association 24th Annual Meeting*, Online, June 2022.  <br> (=「パネル:NPO・市民活動は女性・ジェンダーにどのように向きあうべきか」, 日本NPO学会第24回年次大会, 2022年6月)
+(in Japanese) Ishimoto, Megumi\*, Tomoko Endo\*, **Kazuhiro Terashita**\*, and Sae Okura. Panel: How should NPOs and Civic Activities Deal with Women and Gender? *The Japan NPO Research Association 24th Annual Meeting*, Online, June 2022.  <br> (=「パネル:NPO・市民活動は女性・ジェンダーにどのように向きあうべきか」, 日本NPO学会第24回年次大会, 2022年6月)
 
 (in Japanese) **Terashita, Kazuhiro**. How Women’s Organizations Influence Welfare Budgets: Evidence from Local Governments in Korea. *Public Policy Studies Association Japan*, Tokyo, Jun. 2022. <br>  (=「女性団体は福祉予算にどのような影響を与えるのか:韓国の地方自治体を事例に」, 日本公共政策学会2022年度総会・研究大会, 東京, 2022年5月)
 
-(in Japanese) **Terashita, Kazuhiro**. How NPOs Have Confronted Women and Gen- der? : A Study Using Text Mining of Twitter Posts.*The Japan NPO Research Association 23th Annual Meeting*, Online, June 2021.
+(in Japanese) **Terashita, Kazuhiro**. How NPOs Have Confronted Women and Gender? : A Study Using Text Mining of Twitter Posts.*The Japan NPO Research Association 23th Annual Meeting*, Online, June 2021.
  <br> (=「NPOは女性・ジェンダーにどう向き合ってきたのか:Twitter投稿のテキストマイニングによる検討」, 日本NPO学会第23回年次大会, オンライン, 2021年6月)
 
 **Terashita, Kazuhiro**. Strategies and Consequences of Social Movements in Enacting Ordinances: A Qualitative Comparative Analysis of Gender Backlash in Japan. *25th edition of Alternative Futures and Popular Protest*, Online, June 2021.
