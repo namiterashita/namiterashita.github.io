@@ -210,6 +210,15 @@ Mail: kazuhiroterashita [at] outlook.jp
 **The University of Shiga Prefecture**
 - Methods of Social Research (2023)
 
+## Guest Lecturer
+
+**Ritsumeikan University**
+
+- Introduction to International Society (2023)
+    - Title: Feminism and Society in South Korea from a Political Science Perspective: What Can We Tell from the Experience of the International Society?
+    - Date: Nov. 8th, 2023
+    - Prof. Kyoko Tominaga
+
 ## Teaching Assistant
 
 2022 Fall Kansai University
@@ -405,6 +414,9 @@ Note: * means a presenter.
 (in Japanese) **Terashita, Kazuhiro**. Semi-automation of Protest Event Data Generation Using Natural Language Processing (NLP) : A Case of Korea as a non-English Speaking Country, *Japanese Political Science Association 2022 Annual Conference*, Kyoto, Oct. 2022. <br> ( =「自然言語処理(NLP)を用いた抗議イベントデータ作成の半自動化:非英語圏としての韓国を事例に」, 日本政治学会2022年度研究大会, 京都, 2022年10月)
 
 ## Workshop Presentations
+
+(in Japanese) **Terashita, Kazuhiro**. Women's Organizations and Feminism in South Korea: Outcomes and Challenges from a Perspective of Political Representation, *Subcommittee of Gender and Cooperatives, The Japanese Society for Co-operative Studies*, Online, Aug. 2024. <br> (=「韓国の女性団体とフェミニズム：代表の視点からみるアウトカムと課題」, 『日本協同組合学会 ジェンダーと協同組合部会』, オンライン, 2024年8月)
+
 (in Japanese) **Terashita, Kazuhiro**. Who Represents 'Immigrant Women'?: An Empirical Evidence from Local Council Proceedings in South Korea, *Kyoto University Research Workshop in Political Science*, Kyoto, Nov. 2023. <br> (=「誰が『移民女性』を代表するのか：韓国における地方議会議事録を用いた実証分析」, 京都大学現代政治ワークショップ, 京都, 2023年11月)
 
 (in Japanese) **Terashita, Kazuhiro**. Text Analysis of Korean and Using of Newspaper Article Aata, *Multi-lingual Text Analysis Research Group*, Tokyo, Mar. 2023. <br> (=「韓国語のテキスト分析と新聞記事データの活用」, 多言語テキスト分析研究会, 東京, 2023年3月)
