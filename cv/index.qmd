@@ -414,6 +414,9 @@ Note: * means a presenter.
 (in Japanese) **Terashita, Kazuhiro**. Semi-automation of Protest Event Data Generation Using Natural Language Processing (NLP) : A Case of Korea as a non-English Speaking Country, *Japanese Political Science Association 2022 Annual Conference*, Kyoto, Oct. 2022. <br> ( =「自然言語処理(NLP)を用いた抗議イベントデータ作成の半自動化:非英語圏としての韓国を事例に」, 日本政治学会2022年度研究大会, 京都, 2022年10月)
 
 ## Workshop Presentations
+Note: * means a presenter.
+
+(in Japanese) **Terashita, Kazuhiro**\*, Juhyeon Jeong, Eunmi Cho, Sunwoo Kwak. Regionalism or Geographical Representation?: Estimating the Role of Geographical Speech and Party Politics in South Korea, *Kobe University Political Science Workshop*, Kobe, Sep. 2024.
 
 (in Japanese) **Terashita, Kazuhiro**. Women's Organizations and Feminism in South Korea: Outcomes and Challenges from a Perspective of Political Representation, *Subcommittee of Gender and Cooperatives, The Japanese Society for Co-operative Studies*, Online, Aug. 2024. <br> (=「韓国の女性団体とフェミニズム：代表の視点からみるアウトカムと課題」, 『日本協同組合学会 ジェンダーと協同組合部会』, オンライン, 2024年8月)
 
