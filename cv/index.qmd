@@ -547,7 +547,11 @@ International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
 
 日本公共政策学会 [2022 – Curr.]{.cvdate}
 
+計量・数理政治学会 (JSQPS) [2023 – Curr.]{.cvdate}
+
 現代韓国朝鮮学会 [2024 – Curr.]{.cvdate}
+
+한국정치학회 (韓国政治学会) [2024 – Curr.]{.cvdate}
 
 :::
 
@@ -565,7 +569,11 @@ Japan Association for Comparative Politics [2022 – Curr.]{.cvdate}
 
 Public Policy Studies Association JAPAN [2022 – Curr.]{.cvdate}
 
+Japanese Society for Quantitative Political Science (JSQPS) [2023 – Curr.]{.cvdate}
+
 Association for Contemporary Korean Studies in Japan [2024 – Curr.]{.cvdate}
+
+Korean Political Science Association [2024 – Curr.]{.cvdate}
 
 :::
 
