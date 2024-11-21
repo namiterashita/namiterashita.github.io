@@ -91,6 +91,8 @@ toc-depth: 5
 
 #### Workshop Presentations
 
+1. **Terashita, Kazuhiro**. Feminists are Radical or Moderate?: Measuring News Bias in the Coverage of Women’s Organizations’ in Japan and South Korea,『多言語テキスト分析研究会』, 札幌, 2024年11月.
+
 1. **Terashita, Kazuhiro**, Juhyeon Jeong, Eunmi Cho, Sunwoo Kwak. Regionalism or Geographical Representation?: Estimating the Role of Geographical Speech and Party Politics in South Korea,『神戸大学政治学研究会』, 神戸, 2024年9月.
 
 1.  **寺下和宏**「韓国の女性団体とフェミニズム：代表の視点からみるアウトカムと課題」, 『日本協同組合学会 ジェンダーと協同組合部会』, オンライン, 2024年8月.
