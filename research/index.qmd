@@ -40,8 +40,19 @@ toc-depth: 5
 
 #### Conference Presentations
 
-1. 곽선우, 정주현, 조은미, **Kazuhiro Terashita**. "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산.\
-    (= クァク・ソヌ, チョン・ジュヒョン, チョ・ウンミ, **寺下和宏**.「国家議員の類型と地理的プロフィールに応じた地理的代表性：国会会議録発言の地理的推定を用いた実証分析」『韓国政治学会2024夏季国際学術大会』, 釜山)\
+1. **데라시타 카즈히로**. "The Political Legacy of Feminist Movements on Childcare Policies: Analyzing the Long-term Effects of Social Movements in South Korea", 2024 한국정치학회 연례학술회의, 서울, 2024년 12월.\
+    (= 寺下和宏, "The Political Legacy of Feminist Movements on Childcare Policies: Analyzing the Long-term Effects of Social Movements in South Korea", 『2024 韓国政治学会年次学術会議』, ソウル, 2024年12月)\
+    [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004030001&cid=24120513225435&bbs_type=B){.btn .btn-outline-success .btn-sm}
+    [Paper](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004030002&cid=24120300010848&bbs_type=B){.btn .btn-outline-success .btn-sm}
+    [Slides/Appendix](https://github.com/namiterashita/Feminist-Legacy-Childcare){.btn .btn-outline-success .btn-sm}
+
+1. **Terashita, Kazuhiro**, 이효진, 김정현. "누가 여성노동자를 대표하는가?: 지방의회 회의록을 통한 분석", 2024 한국정치학회 연례학술회의, 서울, 2024년 12월.\
+    (= 寺下和宏, イ・ヒョジン, キム・ジョンヒョン.「誰が女性労働者を代表するのか：地方議会議事録を通じた分析」,『2024 韓国政治学会年次学術会議』, ソウル, 2024年12月)\
+    [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004030001&cid=24120513225435&bbs_type=B){.btn .btn-outline-success .btn-sm}
+    [Paper](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004030002&cid=24121407571335&bbs_type=B){.btn .btn-outline-success .btn-sm}
+
+1. 곽선우, 정주현, 조은미, **Kazuhiro Terashita**. "국회의원의 유형과 지리적 프로필에 따른 지리적 대표성: 국회 회의록 발언의 지리적 추정을 이용한 실증분석", 한국정치학회 2024 하계국제학술대회, 부산, 2024년 8월.\
+    (= クァク・ソヌ, チョン・ジュヒョン, チョ・ウンミ, **寺下和宏**.「国家議員の類型と地理的プロフィールに応じた地理的代表性：国会会議録発言の地理的推定を用いた実証分析」『韓国政治学会2024夏季国際学術大会』, 釜山, 2024年8月)\
     [Reference](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002002001&cid=24080715484265&bbs_type=B){.btn .btn-outline-success .btn-sm}
     [Paper](http://www.kpsa.or.kr/contents/bbs/bbs_content.html?bbs_cls_cd=002004029002&cid=24081222525485&bbs_type=B){.btn .btn-outline-success .btn-sm}
 
