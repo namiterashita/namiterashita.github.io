@@ -17,8 +17,8 @@ format:
 css: cv.css
 format-links:  
   - html
-  - format: pdf
-    text: Full CV
+  - text: Full CV
+    href: cv.pdf
     icon: file-pdf
 CJKmainfont: "NotoSans"
 ---
