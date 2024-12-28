@@ -15,7 +15,11 @@ format:
     output-file: cv.pdf
     
 css: cv.css
-format-links: [pdf]
+format-links:  
+  - html
+  - format: pdf
+    text: Full CV
+    icon: file-pdf
 CJKmainfont: "NotoSans"
 ---
 ::: {.print-only .contact-block}
@@ -198,7 +202,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ::: {.no-print}
 - [Teaching (in Japanese)](https://kazuhiroterashita.com/teaching/)
-- [Full CV (in English)](index.pdf)
+- [Full CV (in English)](cv.pdf)
 :::
 
 ::: {.print-only}
@@ -258,7 +262,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ::: {.no-print}
 
-- [Full CV (in English)](index.pdf)
+- [Full CV (in English)](cv.pdf)
 - [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
 
 :::
@@ -321,7 +325,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 ## Research
 
 - [Research (in Japanese)](https://kazuhiroterashita.com/research/)
-- [Full CV (in English)](index.pdf)
+- [Full CV (in English)](cv.pdf)
 - [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
 
 :::
@@ -446,7 +450,7 @@ Note: * means a presenter.
 
 ## Awards, Grants and Fellowship
 
-- [Full CV (in English)](index.pdf)
+- [Full CV (in English)](cv.pdf)
 - [researchmap (in Japanese and English)](https://researchmap.jp/kazuhiroterashita)
 
 :::
