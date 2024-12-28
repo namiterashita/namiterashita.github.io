@@ -12,6 +12,7 @@ format:
     author: KAZUHIRO TERASHITA, Ph.D.
     pdf-engine: weasyprint
     lang: ja
+    output-file: cv.pdf
     
 css: cv.css
 format-links: [pdf]
@@ -65,7 +66,7 @@ cat(today)
 
 ## Full CV in English
 
-<a href="index.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>   Open CV</a>
+<a href="cv.pdf" class="btn btn-primary btn-sm" target="_blank" role="button"><i class="bi bi-window"></i>   Open CV</a>
 
 :::
 
@@ -458,11 +459,13 @@ May 2024 *Best Presentation Award*, Japanese Association of Electoral Studies <b
 
 Mar. 2023 Doctor of Philosophy in Political Science *summa cum laude* <br> (= 博士(政治学) 秀逸 / summa cum laude, 2023年3月)
 
-Nov. 2018 *Fighting-spirit Award*, Research Proposal Contest in Ritsumeikan University <br> (= 2018 年度立命館大学大学院リサーチプロポーザルコンテスト・敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓「慰安婦」問題を事例に」), 2018年11月)
+Nov. 2018 *Fighting-spirit Award*, Research Proposal Contest in Ritsumeikan University <br> (= 立命館大学 リサーチプロポーザルコンテスト敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓『慰安婦』問題を事例に」), 2018年11月)
 
-Mar. 2017 *Best Seminar Paper Aword*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
+<!--
+Mar. 2017 *Best Seminar Paper Award*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
+-->
 
-Mar. 2017 *All-time Best Seminar Paper Aword*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
+Mar. 2017 *All-time Best Seminar Paper Award*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
 
 ## Grants/Fellowship
 
@@ -478,9 +481,9 @@ Mar. 2017 *All-time Best Seminar Paper Aword*, Haruya Sakamoto Seminar, Kansai U
 
 **May. 2019** Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Exemption of half of loan)) <br> (= 日本学生支援機構第一種奨学金特に優れた業績による返還免除(半額)」, 2019年5月)
 
-**Nov. 2018** Ritsumeikan University Grant for the Master ’s Degree Students who Participate in Overseas Education Programs designated by Graduate Schools <br> (= 立命館大学大学院博士課程前期課程研究実践活動補助金・国外研究実践, 2018年11月)
+**Nov. 2018** Ritsumeikan University Grant for the Master ’s Degree Students who Participate in Overseas Education Programs designated by Graduate Schools <br> (= 立命館大学大学院博士課程前期課程研究実践活動補助金 国外研究実践, 2018年11月)
 
-**May 2018** Ritsumeikan University Academic Conference Scholarship <br> (= 立命館大学大学院博士課程前期課程学生学会奨学金・国内学会発表奨励, 2018年6月)
+**May 2018** Ritsumeikan University Academic Conference Scholarship <br> (= 立命館大学大学院博士課程前期課程学生学会奨学金 国内学会発表奨励, 2018年6月)
 
 **June 2018** Ritsumeikan University Grant for Student Research Societies (= 立命館大学大学院学生研究会活動支援制度 (研究会名:総合政治学研究会), 2018年6月)
 
