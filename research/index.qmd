@@ -29,6 +29,7 @@ format-links:
 ```{R}
 #| echo: false
 #| output: asis
+#| error: false
 
 pacman::p_load(tidyverse, jsonlite)
 
@@ -56,6 +57,25 @@ cinii <- sapply(parsedjson$items$identifiers$cinii_cr_id,
 doi <- sapply(parsedjson$items$identifiers$doi, 
                 function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
 
+url_list <- data.frame()
+
+for(i in 1:length(parsedjson$items$see_also)){
+  
+  url_data <- as.data.frame(parsedjson$items$see_also[i]) 
+  url_data <- try(url_data |> 
+  mutate(name = i)|> 
+  distinct(label, .keep_all=TRUE) |>
+  select(-is_downloadable) |>
+  pivot_wider(names_from = "label",
+              values_from = "X.id"), silent = TRUE)
+  if(inherits(url_data, "try-error")) {
+   url_data <- data.frame(name = i)
+   }                 
+  # 関数がエラーになった場合はNA
+
+url_list <- bind_rows(url_list, url_data)
+
+}
 
 
 gyoseki <-
@@ -72,15 +92,22 @@ gyoseki <-
              page_en = parsedjson$items$ending_page,
              type = parsedjson$items$published_paper_type,
              referee = parsedjson$items$referee,
-             cinii = cinii,
-             doi = doi) |>
+             cinii = cinii) |>
   mutate(year = str_remove_all(year, "-\\d{2,}"),
          referee_ja = case_when(referee == TRUE ~ ", **査読あり**",
                                 TRUE ~ ""),
          referee_en = case_when(referee == TRUE ~ "Peer Reviewed",
-                                TRUE ~ ""))
+                                TRUE ~ ""),
+         title_tr = str_extract(title_ja, "（= .*）$"),
+         title_tr = str_remove_all(title_tr, "（|\\s|=|）$"),
+         title_ja = str_remove_all(title_ja, "（= .*\\）$"),
+         pub_tr = str_extract(pub_ja, "\\(.*\\)$"),
+         pub_tr = str_remove_all(pub_tr, "\\(|= |\\)$"),
+         pub_ja = str_remove_all(pub_ja, "\\(.*\\)$"))
 
 gyoseki[is.na(gyoseki)] <- ""
+
+gyoseki <- bind_cols(gyoseki, url_list)
 
 
 thisis <- gyoseki |>
@@ -91,10 +118,13 @@ thisis <- gyoseki |>
           "1. ", authors_ja, ". ",year, ".",  "「",title_ja,"」",pub_ja, ". ", 
           "\\
 [DOI](", "https://doi.org/", doi, "){.btn .btn-outline-success .btn-sm}", " ",
-          "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}"),
+          "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
+          "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
+          "[URL](", url, "){.btn .btn-outline-success .btn-sm}"),
         list_web = str_remove_all(list_web, "\\(\\)"),
-        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
+        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
         list_web = str_remove_all(list_web, "\\[CiNii\\]\\(https://cir.nii.ac.jp/crid/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #ciniiないものを削除
+        list_web = str_remove_all(list_web, "\\[URL\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #urlないものを削除
         list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**")
         )
 
@@ -126,24 +156,32 @@ cat(paste(thisis$list_web,
 journal_a <- gyoseki |>
   filter(type == "scientific_journal"|
            type == "research_institution") |>
-  mutate(list_web = paste0(
-          "1. ", authors_ja, ". ",year, ".",  " \"",title_ja,",\" ", "*",pub_ja, "*, ", vol, "(",no, "):", page_st, "-",page_en,referee_ja, ". ", 
+  mutate(trans = paste0("<br>（= ", "「",title_tr, "」", "『",pub_tr, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
+         list_web = paste0(
+          "1. ", authors_ja, ". ",year, ".",  " \"",title_ja,",\" ", "*",pub_ja, "*, ", vol, "(",no, "):", page_st, "-",page_en,referee_ja, ". ", trans, 
           "\\
 [DOI](", "https://doi.org/", doi, "){.btn .btn-outline-success .btn-sm}", " ",
-          "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}"),
+          "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
+          "[URL](", url, "){.btn .btn-outline-success .btn-sm}"),
         list_web = str_remove_all(list_web, "\\(\\)"),
-        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
+        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
         list_web = str_remove_all(list_web, "\\[CiNii\\]\\(https://cir.nii.ac.jp/crid/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #ciniiないものを削除
-        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**")
-        )
+        list_web = str_remove_all(list_web, "\\[URL\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #urlないものを削除
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "^1. Kazuhiro Terashita", "1. **Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
 
-# 日本語論文の場合変換
+
+# 日本語・韓国語論文の場合変換
 format_titles <- function(refs) {
   gsub(" \"([^”]*[一-龥ぁ-んァ-ン][^”]*),\" ", "「\\1」", refs, perl = TRUE)
 }
 
 format_pub <- function(refs) {
-  gsub("\\*([^*]*[一-龥ぁ-んァ-ン][^*]*)\\*, ", "『\\1』", refs, perl = TRUE)
+  gsub("\\*([^*]*[一-龥ぁ-んァ-ン가-힣][^*]*)\\*, ", "『\\1』", refs, perl = TRUE)
 }
 
 journal_a <- journal_a |>
