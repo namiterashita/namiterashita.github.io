@@ -3,6 +3,13 @@ figcaption {
     text-align: center;
 }
 
+.btn-xs {
+    padding: 0.2rem 0.4rem; /* 余白を小さく */
+    font-size: 0.65rem; /* 文字を小さく */
+    line-height: 1;
+    border-radius: 0.2rem;
+}
+
 /*
 .btn > a {
     background-color: #FFCCFF;

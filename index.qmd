@@ -31,9 +31,14 @@ My research interests are social movements and civil society in Korea and Japan.
 - [researchmap](https://researchmap.jp/kazuhiroterashita)
 - [Github](https://github.com/namiterashita)
 - [note(blog)](https://note.com/namiterashita)
-- [Twitter](https://twitter.com/namiterashita)
 - [Threads](https://www.threads.net/@namiterashita)
 - [Instagram](https://www.instagram.com/namiterashita/)
+- [Bluesky](https://bsky.app/profile/namiterashita.bsky.social)
+
+<!--
+- [Twitter](https://twitter.com/namiterashita)
+
+-->
 
 :::
 

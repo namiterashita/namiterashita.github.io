@@ -21,12 +21,12 @@ website:
       - text: "Teaching"
         href: teaching/index.qmd
     right: 
-      - icon: twitter
-        href: https://twitter.com/namiterashita
       - icon: instagram
-        href: https://www.instagram.com/namiterashita/
+        href: https://www.instagram.com/namiterashita_qod/
       - text: "{{< iconify bi threads size=20px >}}" #quarto add mcanouil/quarto-iconify の実行が必要
-        href: https://www.threads.net/@namiterashita
+        href: https://www.threads.net/@namiterashita_qod
+      - icon: "{{< iconify fa6-brands bluesky size=20px >}}"
+        href: https://bsky.app/profile/namiterashita.bsky.social
       - text: "{{< iconify material-symbols edit-note size=23px >}}"
         href: https://note.com/namiterashita
       - icon: github

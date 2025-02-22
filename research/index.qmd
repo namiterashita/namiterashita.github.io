@@ -732,7 +732,7 @@ cat(paste(research_projects$list_web,
 
 -->
 
-## Grants and Scholarships
+## Other Grants and Scholarships
 
 1.  「日本NPO学会 若手研究者への国際学会参加支援助成金」, 支援対象学会：2024 ARNOVA Asia Conference, 2024年12月.
 

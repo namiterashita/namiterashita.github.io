@@ -79,10 +79,20 @@ cat(today)
 ## Affiliation
 
 -  京都大学 大学院法学研究科 特定研究員
--  日本学術振興会 特別研究員PD
-   -  受入研究機関：京都大学 公共政策連携研究部・教育部
-   -  受入研究者：曽我謙悟先生
--  延世大学 政治外交学科 訪問研究員（2024年3月〜）
+-  日本学術振興会 特別研究員PD <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation1" role="button" aria-expanded="false" aria-controls="collapseExample">
+    詳細▼
+  </a>
+   <div class="collapse" id="affiliation1">
+   - 受入研究機関：京都大学 公共政策連携研究部・教育部
+   - 受入研究者：曽我謙悟先生
+</div>
+-  延世大学 政治外交学科 訪問研究員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation2" role="button" aria-expanded="false" aria-controls="collapseExample">
+    詳細▼
+  </a>
+   <div class="collapse" id="affiliation2">
+   - Qualities of Democracy Lab
+   - Multimodal Legislative Analysis Lab
+</div>
 
 :::
 
@@ -90,26 +100,68 @@ cat(today)
 ::: {.no-print}
 
 ## Contact
-Mail: kazuhiroterashita [at] outlook.jp
 
-- Address
-    - 〒606-8501 京都市左京区吉田本町
+### Mail and Social Accounts
+
+[{{< iconify fa6-solid:envelope size=40px  >}}](mailto:kazuhiroterashita@outlook.jp)
+[{{< iconify mdi:instagram size=40px  >}}](https://www.instagram.com/namiterashita_qod/)
+[{{< iconify bi threads size=40px  >}}](https://www.threads.net/@namiterashita_qod) 
+[{{< iconify fa6-brands bluesky size=40px  >}}](https://bsky.app/profile/namiterashita.bsky.social) 
+
+<!--kazuhiroterashita [at] outlook.jp
+\@namiterashita_qod
+-->
+
+
+
+### Address
+
+<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#addressja" role="button" aria-expanded="false" aria-controls="collapseExample">
+   日本語▼
+  </a>
+   <div class="collapse" id="addressja">
+   - 〒606-8501 京都市左京区吉田本町
         - 研究室: 法経北館2階 209号室
-    - Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, JAPAN
+</div>
+\
+<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#addressen" role="button" aria-expanded="false" aria-controls="collapseExample">
+    English▼
+  </a>
+   <div class="collapse" id="addressen">
+   - Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, JAPAN
         - Office: \#209, Faculty of Law and Faculty of Economics North Bldg. 2F
 
-- Access
+</div>  
 
-   - 京都駅から
+
+
+### Access
+
+<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessKyoto" role="button" aria-expanded="false" aria-controls="collapseExample">
+    京都駅から▼
+  </a>
+   <div class="collapse" id="accessKyoto">
    1. 京都市営地下鉄京都駅→烏丸線・国際会館行（約10分）→今出川→烏丸今出川→京都市営バス201/203/急行102（約10分）→百万遍
    1. JR京都駅→京都市営バス17/206（約35～45分）→百万遍
    1. JR京都駅→奈良線・宇治方面（約3分）→東福寺→京阪本線・出町柳行（約15分）→出町柳（大学まで徒歩約15分）
-   
-   - 大阪方面から
+</div>
+\
+<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessOsaka" role="button" aria-expanded="false" aria-controls="collapseExample">
+    大阪方面から▼
+  </a>
+   <div class="collapse" id="accessOsaka">
    1. 京橋→京阪本線・出町柳行（特急：約50分）→出町柳（大学まで徒歩約15分）
    1. 梅田→阪急京都線・河原町行（特急：約45分）→河原町→四条河原町→京都市営バス3/17/31/201（約20分）→百万遍
+</div>
+\
+<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessmap" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Map▼
+  </a>
+   <div class="collapse" id="accessmap">
+   <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1891855004114!2d135.77886387571886!3d35.02699677280552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108562446b2bb%3A0x17026e2b02f706d9!2z5Lqs6YO95aSn5a2mIOWQieeUsOOCreODo-ODs-ODkeOCuSDmnKzpg6jmp4vlhoU!5e0!3m2!1sja!2skr!4v1696660737779!5m2!1sja!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
-    - 地図 <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1891855004114!2d135.77886387571886!3d35.02699677280552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108562446b2bb%3A0x17026e2b02f706d9!2z5Lqs6YO95aSn5a2mIOWQieeUsOOCreODo-ODs-ODkeOCuSDmnKzpg6jmp4vlhoU!5e0!3m2!1sja!2skr!4v1696660737779!5m2!1sja!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 :::
 
@@ -154,23 +206,31 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 **2023年3月　神戸大学大学院法学研究科博士課程後期課程　修了**
 
--   **博士（政治学）**, 神戸大学
--   博士学位論文「韓国における女性団体とジェンダー政策：市民社会の政治的帰結に関する実証研究」
-    -   主査：大西裕先生
-    -   副査：砂原庸介先生, 藤村直史先生
+-   **博士（政治学）** <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#eduphD" role="button" aria-expanded="false" aria-controls="collapseExample"> 詳細▼
+  </a>
+  <div class="collapse" id="eduphD">
+     -   博士学位論文「韓国における女性団体とジェンダー政策：市民社会の政治的帰結に関する実証研究」
+     -   主査：大西裕先生, 副査：砂原庸介先生, 藤村直史先生
+</div>
 
 **2019年3月　立命館大学大学院国際関係研究科博士課程前期課程　修了**
 
--   **修士（国際関係学）**, 立命館大学
--   学位取得論文「韓国における『慰安婦』運動の政治分析：『記憶する』アドボカシーと対立構造」
-    -   主査：足立研幾先生
-    -   副査：中戸祐夫先生
+-   **修士（国際関係学）** <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#eduM" role="button" aria-expanded="false" aria-controls="collapseExample"> 詳細▼
+  </a>
+  <div class="collapse" id="eduM">
+     -   学位取得論文「韓国における『慰安婦』運動の政治分析：『記憶する』アドボカシーと対立構造」
+     -   主査：足立研幾先生, 副査：中戸祐夫先生
+</div>
+
 
 **2017年3月　関西大学法学部法学政治学科　卒業**
 
--   **学士（法学）**, 関西大学
--   専門演習/ゼミ研究論文「ヘイトスピーチと対抗する市民構造：差別問題に関するアドボカシーの検証」
+-   **学士（法学）** <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#eduB" role="button" aria-expanded="false" aria-controls="collapseExample"> 詳細▼
+  </a>
+  <div class="collapse" id="eduB">
+    -   専門演習/ゼミ研究論文「ヘイトスピーチと対抗する市民構造：差別問題に関するアドボカシーの検証」
     -   指導教員：坂本治也先生
+</div>
 
 **2013年3月　関西大学北陽高等学校普通科関大連携コースⅡ類　卒業**
 
@@ -269,6 +329,10 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ::: {.print-only}
 
+**Chairman** [Dec. 2024 --- Curr.]{.cvdate}
+
+- Planning Committee, Japan NPO Research Association 27th Research Conference 
+
 **Visiting Scholar** [Mar. 2024 --- Curr.]{.cvdate}
 
 - Department of Political Science and Diplomacy, Yonsei University
@@ -332,6 +396,7 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ::: {.print-only}
 
+<!--
 ## Works in Progress
 
 ### Women’s Organization and Gender Policy in South Korea
@@ -358,7 +423,6 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 - (in Korean) Geographical Representation of the Korean National Assembly: Focusing on the Analysis of the Election System and the Characteristics(w/ Sunwoo Kwak, Eunmi Cho and Juhyeon Jeong)
 
-<!--
 
 - Regionalism or Geographical Representation?": Analyzing the Influence of Constituency and Party Politics in South Korea
 
@@ -366,6 +430,166 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 ## Journal Articles
 
+```{R}
+#| echo: false
+#| output: asis
+
+
+pacman::p_load(tidyverse, jsonlite)
+
+# 論文API
+api_url = paste0("https://api.researchmap.jp/",
+                 "kazuhiroterashita/",
+                 "published_papers" # 論文リスト
+                 )
+
+
+parsedjson <- fromJSON(api_url)
+
+# 共著者を処理し、1つの文字列として結合する
+authors_ja <- sapply(parsedjson$items$authors$ja, 
+                  function(df)
+                    paste(df$name, collapse = ", "))
+
+authors_en <- sapply(parsedjson$items$authors$en, 
+                     function(df)
+                       paste(df$name, collapse = ", "))
+
+## 英語著者名の場合、ファーストオーサーの姓名をいれかえる
+reformat_first_author <- function(authors) {
+  # カンマで分割して著者名リストを作成
+  author_list <- unlist(strsplit(authors, ", "))
+  
+  if (length(author_list) == 0) return(authors)  # 空ならそのまま返す
+
+  # 最初の著者名を姓・名に分割
+  first_author <- unlist(strsplit(author_list[1], " "))
+
+  if (length(first_author) < 2) return(authors)  # 名・姓の2つでない場合はそのまま
+
+  # 姓, 名の順に変更
+  formatted_first <- paste(first_author[2], first_author[1], sep = ", ")
+
+  # 新しいリストを作成
+  author_list[1] <- formatted_first
+
+  # カンマ区切りの文字列に戻す
+  return(paste(author_list, collapse = ", "))
+}
+
+# sapply() でベクトルに関数を適用
+authors_en <- sapply(authors_en, reformat_first_author)
+
+
+cinii <- sapply(parsedjson$items$identifiers$cinii_cr_id, 
+                 function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+doi <- sapply(parsedjson$items$identifiers$doi, 
+                function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+lang <- sapply(parsedjson$items$languages, 
+                function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+url_list <- data.frame()
+
+for(i in 1:length(parsedjson$items$see_also)){
+  
+  url_data <- as.data.frame(parsedjson$items$see_also[i]) 
+  url_data <- try(url_data |> 
+  mutate(name = i)|> 
+  distinct(label, .keep_all=TRUE) |>
+  select(-is_downloadable) |>
+  pivot_wider(names_from = "label",
+              values_from = "X.id"), silent = TRUE)
+  if(inherits(url_data, "try-error")) {
+   url_data <- data.frame(name = i)
+   }                 
+  # 関数がエラーになった場合はNA
+
+url_list <- bind_rows(url_list, url_data)
+
+}
+
+
+gyoseki <-
+  data.frame(authors_ja = authors_ja,
+             authors_en = authors_en,
+             year = parsedjson$items$publication_date,
+             title_ja = parsedjson$items$paper_title$ja,
+             title_en = parsedjson$items$paper_title$en,
+             pub_ja = parsedjson$items$publication_name$ja,
+             pub_en = parsedjson$items$publication_name$en,
+             vol = parsedjson$items$volume,
+             no = parsedjson$items$number,
+             page_st = parsedjson$items$starting_page,
+             page_en = parsedjson$items$ending_page,
+             type = parsedjson$items$published_paper_type,
+             referee = parsedjson$items$referee,
+             cinii = cinii,
+             lang = lang) |>
+  mutate(year = str_remove_all(year, "-\\d{2,}"),
+         referee_ja = case_when(referee == TRUE ~ ", **査読あり**",
+                                TRUE ~ ""),
+         referee_en = case_when(referee == TRUE ~ "Peer Reviewed",
+                                TRUE ~ ""),
+         title_tr = str_extract(title_ja, "（= .*）$"),
+         title_tr = str_remove_all(title_tr, "（|\\s|=|）$"),
+         title_ja = str_remove_all(title_ja, "（= .*\\）$"),
+         pub_tr = str_extract(pub_ja, "\\(.*\\)$"),
+         pub_tr = str_remove_all(pub_tr, "\\(|= |\\)$"),
+         pub_ja = str_remove_all(pub_ja, "\\(.*\\)$"),
+         
+         lang_head = case_when(lang == "jpn" ~ "\\(in Japanese\\) ",
+                               lang == "kor" ~ "\\(in Korean\\) ",
+                                TRUE ~ ""))
+
+gyoseki[is.na(gyoseki)] <- ""
+
+gyoseki <- bind_cols(gyoseki, url_list)
+
+journal_a <- gyoseki |>
+  filter(type == "scientific_journal"|
+           type == "research_institution") |>
+  mutate(trans = paste0("<br>（= ", "「",title_ja, "」", "『",pub_ja, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
+         list_web = paste0(
+          lang_head, authors_en, ". ",year, ".",  " \"",title_en,".\" ", "*",pub_en, "* ", vol, "(",no, "):", page_st, "-",page_en, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+
+# 日本語・韓国語論文の場合変換
+format_titles <- function(refs) {
+  gsub(" \"([^”]*[一-龥ぁ-んァ-ン][^”]*).\" ", "「\\1」", refs, perl = TRUE)
+}
+
+format_titles_kr <- function(refs) {
+  gsub("（= 「([^”]*[가-힣][^”]*)」", "（= \"\\1\\.\"", refs, perl = TRUE)
+}
+
+format_pub <- function(refs) {
+  gsub("\\*([^*]*[一-龥ぁ-んァ-ン가-힣][^*]*)\\*. ", "『\\1』", refs, perl = TRUE)
+}
+
+journal_a <- journal_a |>
+    mutate(list_web = format_titles(list_web),
+           list_web = format_titles_kr(list_web),
+           list_web = format_pub(list_web))
+
+cat(paste(journal_a$list_web,
+    collapse = "\r\r"))
+
+
+
+
+```
+
+
+<!--
 (in Japanese) **Terashita, Kazuhiro**. 2023. Do Women’s Organizations’ Activities Affect Welfare Budgets?: Empirical Analysis Using Protest Event Data from Local Governments in Korea. *Journal of Public Policy Studies* 23: 139-155.<br> (=「女性団体の活動は福祉予算に影響を及ぼすのか：韓国・地方自治体の抗議イベントデータを用いた実証分析」, 『公共政策研究』23: 139-155.)
 
 (in Japanese) **Terashita, Kazuhiro**. 2023. What is Gender Budgeting? : A Literature Review and Case of South Korea. *The Rokkodai Ronshu. Law & Political Science* 69(2): 99-123. <br> (=「ジェンダー予算とは何か:文献レビューと韓国の事例から」『六甲台論集. 法学政治学編』69(2):99-123.)
@@ -374,12 +598,202 @@ Mail: kazuhiroterashita [at] outlook.jp
 
 (in Japanese) **Terashita, Kazuhiro**. 2022. A Qualitative Comparative Analysis (QCA) of Public-Private Collaboration in River Administration: Focusing on the Administrative Implementation Structure of Government and Strategies of Civil Society Organizations. *Quarterly Journal of Administrative Research*(177): 46-60. <br> (=「河川行政における官民協働の質的比較分析(QCA):行政の実施構造と民間団体の戦略に注目して」『季刊行政管理研究』(177):46–60.)
 
+-->
+
 ## MISC
 
+
+```{R}
+#| echo: false
+#| output: asis
+
+# miscAPI
+api_misc = paste0("https://api.researchmap.jp/",
+                 "kazuhiroterashita/",
+                 "misc" # misc
+                 )
+
+miscjson <- fromJSON(api_misc)
+
+# 共著者を処理し、1つの文字列として結合する
+authors_ja <- sapply(miscjson$items$authors$ja, 
+                  function(df)
+                    paste(df$name, collapse = ", "))
+
+authors_en <- sapply(miscjson$items$authors$en, 
+                     function(df)
+                       paste(df$name, collapse = ", "))
+
+
+lang <- sapply(miscjson$items$languages, 
+                function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+misc <-
+  data.frame(authors_ja = authors_ja,
+             authors_en = authors_en,
+             year = miscjson$items$publication_date,
+             title_ja = miscjson$items$paper_title$ja,
+             title_en = miscjson$items$paper_title$en,
+             pub_ja = miscjson$items$publication_name$ja,
+             pub_en = miscjson$items$publication_name$en,
+             vol = miscjson$items$volume,
+             no = miscjson$items$number,
+             page_st = miscjson$items$starting_page,
+             page_en = miscjson$items$ending_page,
+             type = miscjson$items$misc_type,
+             referee = miscjson$items$referee,
+             lang = lang) |>
+  mutate(year = str_remove_all(year, "-\\d{2,}"),
+         referee_ja = case_when(referee == TRUE ~ ", **査読あり**",
+                                TRUE ~ ""),
+         referee_en = case_when(referee == TRUE ~ "Peer Reviewed",
+                                TRUE ~ ""),
+         
+         lang_head = case_when(lang == "jpn" ~ "\\(in Japanese\\) ",
+                               lang == "kor" ~ "\\(in Korean\\) ",
+                                TRUE ~ ""))
+
+misc[is.na(misc)] <- ""
+
+misc <- misc |>
+  mutate(trans = paste0("<br>（= ", "「",title_ja, "」", "『",pub_ja, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
+         list_web = paste0(
+          lang_head, authors_en, ". ",year, ".",  " \"",title_en,".\" ", "*",pub_en, "* ", vol, "(",no, "):", page_st, "-",page_en, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "^Kazuhiro Terashita", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "\\) Kazuhiro Terashita", "\\) **Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+cat(paste(misc$list_web,
+    collapse = "\r\r"))
+
+
+```
+
+<!--
 (in Japanese) **Terashita, Kazuhiro**. 2022. Book Review: Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019. *Japanese Journal of Electoral Studies* 38(1): 126–7. <br> (=「書評:Steel, G. (ed.). Beyond the Gender Gap in Japan, University of Michigan Press, 2019」『選挙研究』38(1): 126–7.)
 
+-->
+
 ## Conference Presentations
-Note: * means a presenter.
+<!-- Note: * means a presenter. -->
+
+```{R}
+#| echo: false
+#| output: asis
+
+# presentationAPI
+api_pre = paste0("https://api.researchmap.jp/",
+                 "kazuhiroterashita/",
+                 "presentations" # presentations
+)
+
+prejson <- fromJSON(api_pre)
+
+# 共著者を処理し、1つの文字列として結合する
+presenters_ja <- sapply(prejson$items$presenters$ja, 
+                     function(df)
+                       paste(df$name, collapse = ", "))
+
+presenters_en <- sapply(prejson$items$presenters$en, 
+                     function(df)
+                       paste(df$name, collapse = ", "))
+
+# sapply() でベクトルに関数を適用
+presenters_en <- sapply(presenters_en, reformat_first_author)
+
+
+
+lang <- sapply(prejson$items$languages, 
+                function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+presentations <-
+  data.frame(presenters_ja = presenters_ja,
+             presenters_en = presenters_en,
+             year_date = prejson$items$publication_date,
+             title_ja = prejson$items$presentation_title$ja,
+             title_en = prejson$items$presentation_title$en,
+             pub_ja = prejson$items$event$ja,
+             pub_en = prejson$items$event$en,
+             type = prejson$items$presentation_type,
+             location = prejson$items$location,
+             lang = lang) |>
+  mutate(year_month_j = format(as.Date(year_date), "%Y年%m月"),
+         year_month_j = str_replace(year_month_j, "年0", "年"),
+         year_month_k = format(as.Date(year_date), "%Y년%m월"),
+         year_month_k = str_replace(year_month_k, "년0", "년"),
+         year_month_e = format(as.Date(year_date), "%b %Y"),
+         year_month = case_when(lang == "eng" ~ year_month_e,
+                                lang == "jpn" ~ year_month_j,
+                                lang == "kor" ~ year_month_k,
+                                TRUE ~ ""),
+         title_tr = str_extract(title_ja, "（= .*）$"),
+         title_tr = str_remove_all(title_tr, "（|\\s|=|）$"),
+         title_ja = str_remove_all(title_ja, "（= .*\\）$"),
+         pub_tr = str_extract(pub_ja, "（= .*\\）$"),
+         pub_tr = str_remove_all(pub_tr, "（|= |）$"),
+         pub_ja = str_remove_all(pub_ja, "（= .*\\）$"),
+         location.tr = str_extract(location.ja, "\\(.*\\)"),
+         location.tr = str_remove_all(location.tr, "\\(|=|\\)"),
+         location.ja = str_remove_all(location.ja, "\\(.*\\)"),
+         lang_head = case_when(lang == "jpn" ~ "\\(in Japanese\\) ",
+                               lang == "kor" ~ "\\(in Korean\\) ",
+                                TRUE ~ ""))
+
+
+presentations[is.na(presentations)] <- ""
+
+conf_pre <- presentations |>
+    filter(type == "oral_presentation") |>
+  mutate(trans = case_when(lang == "jpn" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           lang == "kor" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           TRUE ~ ""),
+         list_web = paste0(
+          lang_head, presenters_en,". ",  "\"",title_en,".\" ",pub_en, ", ",location.en, ", ", year_month_e, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_remove(list_web, "<br>（= 「」）"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+
+# 日本語・韓国語論文の場合変換
+format_titles <- function(refs) {
+  gsub(" \"([^”]*[一-龥ぁ-んァ-ン][^”]*),\" ", "「\\1」", refs, perl = TRUE)
+}
+
+format_titles_kr <- function(refs) {
+  gsub("（= 「([^”]*[가-힣][^”]*)」", "（= \"\\1\\.\" ", refs, perl = TRUE)
+}
+
+format_pub <- function(refs) {
+  gsub("\\*([^*]*[一-龥ぁ-んァ-ン가-힣][^*]*)\\*, ", "『\\1』", refs, perl = TRUE)
+}
+
+format_titles_en <- function(refs) {
+  gsub("（= 「[A-Za-z0-9 .,!?;:'\"’“”()-]+」", "（= ", refs, perl = TRUE)
+}
+
+conf_pre <- conf_pre |>
+  mutate(list_web = format_titles(list_web),
+         list_web = format_titles_en(list_web),
+         list_web = format_titles_kr(list_web)
+        )
+
+cat(paste(conf_pre$list_web,
+    collapse = "\r\r"))
+
+
+```
+
+<!--
 
 (in Korean) **Terashita, Kazuhiro**. "The Political Legacy of Feminist Movements on Childcare Policies: Analyzing the Long-term Effects of Social Movements in South Korea",  *Korean Political Science Association 2024 Annual Conference*, Seoul, Dec. 2024.<br> (= 2024 한국정치학회 연례학술회의, 서울, 2024년12월)
 
@@ -418,12 +832,123 @@ Note: * means a presenter.
 
 (in Japanese) **Terashita, Kazuhiro**. The Analysis of Civic Advocacy as Countering of Hate Speech in Japan: Comparative Study on the Activities of MINDAN and Grassroots Citizen. *The Japan NPO Research Association 20th Annual Meeting*, Tokyo, June 2018.  <br> ( =「ヘイトスピーチに対抗する市民アドボカシーの分析:民団の請願活動と草の根カウンター運動の比較を通じて」, 日本NPO学会第20回年次大会, 東京, 2018年6月)
 
+-->
+
 ## Poster Presentations
+
+```{R}
+#| echo: false
+#| output: asis
+
+poster_pre <- presentations |>
+    filter(type == "poster_presentation") |>
+  mutate(trans = case_when(lang == "jpn" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja,  "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           lang == "kor" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           TRUE ~ ""),
+         list_web = paste0(
+          lang_head, presenters_en,". ",  "\"",title_en,".\" ",pub_en, ", ",location.en, ", ", year_month_e, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_remove(list_web, "<br>（= 「」）"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+poster_pre <- poster_pre |>
+  mutate(list_web = format_titles(list_web),
+         list_web = format_titles_en(list_web),
+         list_web = format_titles_kr(list_web)
+        )
+
+cat(paste(poster_pre$list_web,
+    collapse = "\r\r"))
+
+  
+  
+```
+
+<!--
 
 (in Japanese) **Terashita, Kazuhiro**. Semi-automation of Protest Event Data Generation Using Natural Language Processing (NLP) : A Case of Korea as a non-English Speaking Country, *Japanese Political Science Association 2022 Annual Conference*, Kyoto, Oct. 2022. <br> ( =「自然言語処理(NLP)を用いた抗議イベントデータ作成の半自動化:非英語圏としての韓国を事例に」, 日本政治学会2022年度研究大会, 京都, 2022年10月)
 
+-->
+
+## Panel and Roundtable
+
+```{R}
+#| echo: false
+#| output: asis
+
+panel_pre <- presentations |>
+    filter(type == "public_symposium") |>
+  mutate(trans = case_when(lang == "jpn" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja,  "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           lang == "kor" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           TRUE ~ ""),
+         list_web = paste0(
+          lang_head, presenters_en,". ",  "\"",title_en,".\" ",pub_en, ", ",location.en, ", ", year_month_e, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_remove(list_web, "<br>（= 「」）"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+panel_pre <- panel_pre |>
+  mutate(list_web = format_titles(list_web),
+         list_web = format_titles_en(list_web),
+         list_web = format_titles_kr(list_web)
+        )
+
+cat(paste(panel_pre$list_web,
+    collapse = "\r\r"))
+
+
+
+```
+
+
 ## Workshop Presentations
-Note: * means a presenter.
+<!--Note: * means a presenter.-->
+
+```{R}
+#| echo: false
+#| output: asis
+
+workshop_pre <- presentations |>
+    filter(type == "others") |>
+  mutate(trans = case_when(lang == "jpn" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja,  "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           lang == "kor" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
+                           TRUE ~ ""),
+         list_web = paste0(
+          lang_head, presenters_en,". ",  "\"",title_en,".\" ",pub_en, ", ",location.en, ", ", year_month_e, ". ", trans),
+list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
+        list_web = str_remove(list_web, "「」"),
+        list_web = str_remove_all(list_web, "\\(\\)"),
+        list_web = str_remove(list_web, "<br>（= 「」）"),
+        list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
+        list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
+
+workshop_pre <- workshop_pre |>
+  mutate(list_web = format_titles(list_web),
+         list_web = format_titles_en(list_web),
+         list_web = format_titles_kr(list_web)
+        )
+
+cat(paste(workshop_pre$list_web,
+    collapse = "\r\r"))
+
+
+
+
+```
+
+<!--
 
 (in Japanese) **Terashita, Kazuhiro**. Feminists are Radical or Moderate?: Measuring News Bias in the Coverage of Women’s Organizations’ in Japan and South Korea, *Multi-lingual Text Analysis Research Group*, Sapporo, Nov. 2024.
 
@@ -444,6 +969,9 @@ Note: * means a presenter.
 (in Japanese) **Terashita, Kazuhiro**. Strategies of Social Movements and Political Participation: A Qualitative Comparative Analysis of Local Movements on Rivers. *Kobe University Research Workshop in Political Science*, Kobe, Online. July 2020. <br> (=「社会運動の戦略と制度外政治参加:河川をめぐる地域運動の質的比較分析」, 神戸大学政治学研究会, オンライン, 2020年7月)
 
 (in Japanese) **Terashita, Kazuhiro**. Emergence, Persistence, and Change of the ’Comfort Women’ Movement in South Korea. *Kobe University Research Workshop in Political Science*, Kobe, Nov. 2019. <br> (=「韓国における『慰安婦』運動の発生と持続・変化の政治分析」, 神戸大学政治学研究会, 神戸, 2019年11月)
+
+-->
+
 :::
 
 ::: {.no-print}
@@ -459,41 +987,167 @@ Note: * means a presenter.
 
 ## Awards
 
+```{R}
+#| echo: false
+#| output: asis
+
+# awardsAPI
+api_awards = paste0("https://api.researchmap.jp/",
+                    "kazuhiroterashita/",
+                    "awards" # awards
+)
+
+awardsjson <- fromJSON(api_awards)
+
+awards <-
+  data.frame(year_month = awardsjson$items$award_date,
+             award = awardsjson$items$award_name,
+             association = awardsjson$items$association,
+             lang = awardsjson$items$address_country) |>
+  mutate(year_month_j = str_replace(year_month, "-","年"),
+         year_month_j = str_c(year_month_j, "月"),
+         year_month_j = str_replace(year_month_j, "年0", "年"),
+         year_month_k = str_replace(year_month_j, "年", "년"),
+         year_month_k = str_replace(year_month_k, "月", "월"),
+         year_month_e = str_c(year_month, "-01"),
+         year_month_e = format(as.Date(year_month_e), "%b %Y"),
+         year_month = case_when(lang == "ENG" ~ year_month_e,
+                                lang == "JPN" ~ year_month_j,
+                                lang == "KOR" ~ year_month_k,
+                                TRUE ~ ""))
+
+awards <- awards |>
+  mutate(list_web = paste0("**",year_month_e,"**"," *",award.en,"*, ",association.en, "<br>", "（= ", association.ja, " ",award.ja, ", ",year_month, "）"
+        ))
+
+awards <- awards |>
+  mutate(list_web = format_titles(list_web)
+        )
+
+
+cat(paste(awards$list_web,
+    collapse = "\r\r"))
+
+```
+
+
+<!--
 May 2024 *Best Presentation Award*, Japanese Association of Electoral Studies <br> (= 日本選挙学会優秀報告賞, 2024年5月)
 
 Mar. 2023 Doctor of Philosophy in Political Science *summa cum laude* <br> (= 博士(政治学) 秀逸 / summa cum laude, 2023年3月)
 
 Nov. 2018 *Fighting-spirit Award*, Research Proposal Contest in Ritsumeikan University <br> (= 立命館大学 リサーチプロポーザルコンテスト敢闘賞 (題目:「『対立』する市民社会の政治分析:日韓『慰安婦』問題を事例に」), 2018年11月)
 
-<!--
 Mar. 2017 *Best Seminar Paper Award*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ最優秀論文賞, 2017年3月)
--->
+
 
 Mar. 2017 *All-time Best Seminar Paper Award*, Haruya Sakamoto Seminar, Kansai University <br> (= 関西大学法学部坂本治也ゼミ歴代最優秀論文賞, 2017年3月)
 
-## Grants/Fellowship
+-->
 
-**Apr. 2023 --- Mar. 2026** JSPS KAKENHI Grant-in-Aid for JSPS Fellows [JP23KJ1150]{.cvdate} <br> (= 日本学術振興会 科学研究費助成事業 特別研究員奨励費, 2023年4月- 2026年3月)
+## Funding
+
+```{R}
+#| echo: false
+#| output: asis
+
+# research_projectsAPI
+api_research_projects = paste0("https://api.researchmap.jp/",
+                    "kazuhiroterashita/",
+                    "research_projects" # awards
+)
+
+
+research_projectsjson <- fromJSON(api_research_projects)
+
+
+# 共著者を処理し、1つの文字列として結合する
+investigators_ja <- sapply(research_projectsjson$items$investigators$ja, 
+                     function(df)
+                       paste(df$name, collapse = ", "))
+
+grant_number <- sapply(research_projectsjson$items$identifiers$grant_number, 
+              function(x) if (is.null(x)) NA else x, USE.NAMES = FALSE)
+
+
+research_projects <-
+  data.frame(from_date = research_projectsjson$items$from_date,
+             to_date = research_projectsjson$items$to_date,
+             research_project = research_projectsjson$items$research_project_title,
+             offer_org = research_projectsjson$items$offer_organization,
+             sys_name = research_projectsjson$items$system_name,
+             investigators.ja = investigators_ja,
+             grant_number = grant_number,
+             category = research_projectsjson$items$category) |>
+  mutate(from_date_j = str_replace(from_date, "-","年"),
+         from_date_j = str_c(from_date_j, "月"),
+         from_date_j = str_replace(from_date_j, "年0", "年"),
+         from_date_k = str_replace(from_date_j, "年", "년"),
+         from_date_k = str_replace(from_date_k, "月", "월"),
+         from_date_e = str_c(from_date, "-01"),
+         from_date_e = format(as.Date(from_date_e), "%b %Y"),
+         to_date_j = str_replace(to_date, "-","年"),
+         to_date_j = str_c(to_date_j, "月"),
+         to_date_j = str_replace(to_date_j, "年0", "年"),
+         to_date_k = str_replace(to_date_j, "年", "년"),
+         to_date_k = str_replace(to_date_k, "月", "월"),
+         to_date_e = str_c(to_date, "-01"),
+         to_date_e = format(as.Date(to_date_e), "%b %Y"),
+         co.invest = str_count(investigators.ja, ","),
+         co.invest = case_when(co.invest == 0 ~ "単独",
+                               TRUE ~ "分担"))
+
+research_projects <- research_projects |>
+  mutate(list_web = paste0("**",
+    from_date_e, " --- ", to_date_e, "**", " ",
+    offer_org.en, " ", sys_name.en, "<br>", "（= ", offer_org.ja, sys_name.ja,"）","\\"))
+
+format_titles_rp <- function(refs) {
+  gsub(" \"([^”]*[一-龥ぁ-んァ-ン][^”]*).\" ", "「\\1」", refs, perl = TRUE)
+}
+
+research_projects <- research_projects |>
+  mutate(list_web = format_titles_rp(list_web)
+        )
+
+
+cat(paste(research_projects$list_web,
+    collapse = "\r\r"))
+
+```
+
+<!--
+
+**Apr. 2023 --- Mar. 2026** JSPS KAKENHI Grant-in-Aid for JSPS Fellows [JP23KJ1150] <br> (= 日本学術振興会 科学研究費助成事業 特別研究員奨励費, 2023年4月- 2026年3月)
 
 **Apr. 2022 --- June 2022** Kobe University Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields, Premium Program <br> (= 神戸大学異分野共創による次世代卓越博士人材育成プロジェクト 令和4年度プレミアム・プログラム, 2022年4月-2022年6月)
 
-**Apr. 2022 --- Mar. 2023** Kobe University Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program <br> (= 国立研究開発法人 科学技術振興機構(JST)次世代研究者挑戦的研究プログラム事 業 神戸大学異分野共創による次世代卓越博士人材育成プロジェクト, 2022年4月-2023年3月)
+**Apr. 2022 --- Mar. 2023** Kobe University Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program <br> (= 国立研究開発法人 科学技術振興機構(JST)次世代研究者挑戦的研究プログラム事業 神戸大学異分野共創による次世代卓越博士人材育成プロジェクト, 2022年4月-2023年3月)
 
 **Apr. 2022 --- Mar. 2023** Suntory Foundation Torii Fellowship / Grant for Individual Research on Society and Culture by Young Researchers <br> (= サントリー文化財団 若手研究者による社会と文化に関する個人研究助成(鳥井フェ ローシップ), 2022年4月-2023年3月)
 
 **Aug. 2021 --- Mar. 2022** JSPS Overseas Challenge Program for Young Researchers <br> (= 日本学術振興会若手研究者海外挑戦プログラム, 2021年8月-2022年3月)
 
-**May. 2019** Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I (interest-free) scholarship (Exemption of half of loan)) <br> (= 日本学生支援機構第一種奨学金特に優れた業績による返還免除(半額)」, 2019年5月)
+-->
 
-**Nov. 2018** Ritsumeikan University Grant for the Master ’s Degree Students who Participate in Overseas Education Programs designated by Graduate Schools <br> (= 立命館大学大学院博士課程前期課程研究実践活動補助金 国外研究実践, 2018年11月)
+## Other Grants and Scholarships
 
-**May 2018** Ritsumeikan University Academic Conference Scholarship <br> (= 立命館大学大学院博士課程前期課程学生学会奨学金 国内学会発表奨励, 2018年6月)
+**Dec. 2024** Grants to Support Young Researchers to Attend International Conferences, Japan NPO Research Association <br> (= 日本NPO学会 若手研究者への国際学会参加支援助成金, 2024年12月. )
 
-**June 2018** Ritsumeikan University Grant for Student Research Societies (= 立命館大学大学院学生研究会活動支援制度 (研究会名:総合政治学研究会), 2018年6月)
+**May. 2023** Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I Scholarship) <br> (= 日本学生支援機構第一種奨学金特に優れた業績による返還免除, 2023年5月. )
 
-**June 2018** Ritsumeikan University Academic Excellence Scholarship for 2nd Year of Enrollment (Second Year Graduate Scholarships, Rank in the Top 25%) <br> (= 立命館大学大学院2 年次対象成績優秀者奨学金 (成績上位25%), 2018年6月)
+**May. 2019** Repayment Exemption for Students with Excellent Grades, Japan Student Services Organization (JASSO) Type I Scholarship) <br> (= 日本学生支援機構第一種奨学金特に優れた業績による返還免除, 2019年5月. )
 
-**Apr. 2017** Ritsumeikan University Academic Excellence Scholarship for 1st Year of Enrollment (First Year Graduate Scholarships, Rank in the Top 25%) <br> (= 立命館大学大学院1 年次対象成績優秀者奨学金 (成績上位25%), 2017年4月)
+**Nov. 2018** Ritsumeikan University Grant for the Master ’s Degree Students who Participate in Overseas Education Programs designated by Graduate Schools <br> (= 立命館大学大学院博士課程前期課程研究実践活動補助金 国外研究実践, 2018年11月. )
+
+**May 2018** Ritsumeikan University Academic Conference Scholarship <br> (= 立命館大学大学院博士課程前期課程学生学会奨学金 国内学会発表奨励, 2018年6月. )
+
+**June 2018** Ritsumeikan University Grant for Student Research Societies <br> (= 立命館大学大学院学生研究会活動支援制度, 2018年6月. )
+
+**June 2018** Ritsumeikan University Academic Excellence Scholarship for 2nd Year of Enrollment (Second Year Graduate Scholarships) <br> (= 立命館大学大学院2 年次対象成績優秀者奨学金, 2018年6月. )
+
+**Apr. 2017** Ritsumeikan University Academic Excellence Scholarship for 1st Year of Enrollment (First Year Graduate Scholarships) <br> (= 立命館大学大学院1 年次対象成績優秀者奨学金, 2017年4月. )
+
 :::
 
 ::: {.no-print}
@@ -501,30 +1155,30 @@ Mar. 2017 *All-time Best Seminar Paper Award*, Haruya Sakamoto Seminar, Kansai U
 ## Languages and Skills
 
 ### 言語能力
-日本語(native), 한국어(fluent), English(intermediate)
+日本語 (native), 한국어 (fluent), English (intermediate)
 
 **Certifications**
 
-- 韓国語能力試験（TOPIK） **6級:最高級**
-    - 듣기(Listening): 92/100
-    - 쓰기(Writing): 58/100
-    - 읽기(Reading): 92/100
+- 韓国語能力試験（TOPIK） **6級:最高級** <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#topik" role="button" aria-expanded="false" aria-controls="collapseExample"> 成績▼
+  </a>
+  <div class="collapse" id="topik">
+    - 듣기 (Listening): 92/100
+    - 쓰기 (Writing): 58/100
+    - 읽기 (Reading): 92/100
+</div>
 
 ### スキル
 
 **統計ソフトウェア**: R, SPSS
-
- - **統計分析**: 回帰分析, 統計的因果推論, パネルデータ分析
- - **計量テキスト分析・機械学習**: naïve Bayes, Neural Network, newsmap, Seeded LDA, LSS, LDA etc.
- - **質的分析手法**: 質的比較分析(QCA)
 
 **その他**: Quarto,L<span style="text-transform:uppercase;font-size:70%;margin-left:-0.36em;vertical-align:0.3em;line-height:0;margin-right:-0.15em">a</span>T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X, Microsoft Office, Apple iWork
 
 :::
 
 ::: {.print-only}
+
 ## Languages
-Japanese(native), Korean(fluent), English(intermediate)
+Japanese (native), Korean (fluent), English (intermediate)
 
 ### Certifications
 
@@ -535,10 +1189,6 @@ Japanese(native), Korean(fluent), English(intermediate)
 ## Skills
 
 **Statistical Computing**: R, SPSS
-
- - **Statistical Analysis**: Regression Analysis, Causal Inference, Panel Data Analysis
- - **Quantitative Text Analysis and Machine Learning**: naïve Bayes, Neural Network, newsmap, Seeded LDA, LSS, LDA etc.
- - **Qualitative Methods**: QCA
 
 **Others**: Quarto,L<span style="text-transform:uppercase;font-size:70%;margin-left:-0.36em;vertical-align:0.3em;line-height:0;margin-right:-0.15em">a</span>T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X, Microsoft Office, Apple iWork
 
@@ -608,6 +1258,8 @@ Korean Political Science Association [2024 – Curr.]{.cvdate}
 
 関西政治経済学研究会（Y&R） [2023 – Curr.]{.cvdate}
 
+サードセクター研究若手フォーラム [2025 – Curr.]{.cvdate}
+
 :::
 
 ::: {.print-only}
@@ -626,6 +1278,8 @@ Multi-lingual Text Analysis Research Group [2023 - Curr.]{.cvdate}
 Kyoto University Research Workshop in Political Science [2023 – Curr.]{.cvdate}
 
 Political Economy Research Workshop in Kansai (Y&R)  [2023 – Curr.]{.cvdate}
+
+Japanese Early Career Forum for Third Sector Research (JECTS) [2025 – Curr.]{.cvdate}
 
 :::
 
