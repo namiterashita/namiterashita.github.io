@@ -184,7 +184,6 @@ cat(today)
 
 - Supervisor: Prof. Haruya Sakamoto
 - Thesis Title: The Structure of Civil Society as Countering of Hate Speech: Analysis of Advocacy about Discrimination in Japan <br> (= ヘイトスピーチと対抗する市民構造:差別問題に関するアドボカシーの検証)
-    - The supervisor: Prof. Haruya Sakamoto
 
 
 *Yonsei University Korean Language Institute* [*Sep. 2020 --- May. 2021*]{.cvdate}
