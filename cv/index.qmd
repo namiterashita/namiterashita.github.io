@@ -22,8 +22,13 @@ format-links:
     icon: file-pdf
 CJKmainfont: "NotoSans"
 ---
-::: {.print-only .contact-block}
+::: {.print-only .contact-block-2}
 寺下 和宏
+
+:::
+
+::: {.print-only .contact-block}
+데라시타 카즈히로
 :::
 
 
