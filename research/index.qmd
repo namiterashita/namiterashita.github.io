@@ -117,12 +117,12 @@ thisis <- gyoseki |>
   mutate(list_web = paste0(
           "1. ", authors_ja, ". ",year, ".",  "「",title_ja,"」",pub_ja, ". ", 
           "\\
-[DOI](", "https://doi.org/", doi, "){.btn .btn-outline-success .btn-sm}", " ",
+[DOI](", doi, "){.btn .btn-outline-success .btn-sm}", " ",
           "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
           "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
           "[URL](", url, "){.btn .btn-outline-success .btn-sm}"),
         list_web = str_remove_all(list_web, "\\(\\)"),
-        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
+        list_web = str_remove_all(list_web, "\\[DOI\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
         list_web = str_remove_all(list_web, "\\[CiNii\\]\\(https://cir.nii.ac.jp/crid/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #ciniiないものを削除
         list_web = str_remove_all(list_web, "\\[URL\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #urlないものを削除
         list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**")
@@ -158,13 +158,13 @@ journal_a <- gyoseki |>
            type == "research_institution") |>
   mutate(trans = paste0("<br>（= ", "「",title_tr, "」", "『",pub_tr, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
          list_web = paste0(
-          "1. ", authors_ja, ". ",year, ".",  " \"",title_ja,",\" ", "*",pub_ja, "*, ", vol, "(",no, "):", page_st, "-",page_en,referee_ja, ". ", trans, 
+          "1. ", authors_ja, ". ",year, ".",  " \"", title_ja,",\" ", "*", pub_ja, "*, ", vol, "(",no, "):", page_st, "-",page_en,referee_ja, ". ", trans, 
           "\\
-[DOI](", "https://doi.org/", doi, "){.btn .btn-outline-success .btn-sm}", " ",
+[DOI](",  doi, "){.btn .btn-outline-success .btn-sm}", " ",
           "[CiNii](", "https://cir.nii.ac.jp/crid/", cinii, "){.btn .btn-outline-success .btn-sm}", " ",
           "[URL](", url, "){.btn .btn-outline-success .btn-sm}"),
         list_web = str_remove_all(list_web, "\\(\\)"),
-        list_web = str_remove_all(list_web, "\\[DOI\\]\\(https://doi\\.org/NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
+        list_web = str_remove_all(list_web, "\\[DOI\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #doiないものを削除
         list_web = str_remove_all(list_web, "\\[CiNii\\]\\(https://cir.nii.ac.jp/crid/\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #ciniiないものを削除
         list_web = str_remove_all(list_web, "\\[URL\\]\\(NA\\)\\{\\.btn \\.btn-outline-success \\.btn-sm\\}"), #urlないものを削除
 list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),

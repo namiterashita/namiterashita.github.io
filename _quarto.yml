@@ -13,6 +13,7 @@ website:
   favicon: "pic/favicon2.png"
   navbar:
     search: true
+    background: "#008080"
     left:
       - text: "CV"
         href: cv/index.qmd

@@ -29,13 +29,12 @@ CJKmainfont: "NotoSans"
 
 ::: {.print-only .contact-block}
 데라시타 카즈히로
+
 :::
 
 
 ::: {.print-only .contact-block-2}
-Program-Specific Researcher
-
-JSPS Postdoctoral Research Fellow
+Full-time Lecturer
 
 :::
 
@@ -46,14 +45,18 @@ JSPS Postdoctoral Research Fellow
 :::
 
 ::: {.print-only .contact-block-3}
-Graduate School of Law, Kyoto University
+Department of Area Studies,
 
-Yoshida Honmachi, Sakyo-ku, Kyoto-shi, Kyoto, 606-8501, JAPAN
+Graduate School of Arts and Sciences,
+
+University of Tokyo
+
+3-8-1 Komaba, Meguro-ku, Tokyo 153-8902, JAPAN
 
 :::
 
 ::: {.print-only .contact-block-3}
-Tel. (office): +81-75-753-3126
+Tel. (office): +81-3-5454-6321
 
 E-mail: kazuhiroterashita@outlook.jp
 
@@ -79,25 +82,88 @@ cat(today)
 
 :::
 
+
+## Current Positions
+
+::: {.print-only}
+
+**Full-time Lecturer** (At the level of **Assistant Professor**, permanent position)
+ [Apr. 2025 --- Curr.]{.cvdate} <br> &emsp;&emsp;Graduate School of Arts and Sciences, College of Arts and Sciences <br> &emsp;&emsp;University of Tokyo
+
+**Research Fellow** 
+ [Apr. 2025 --- Curr.]{.cvdate} <br> &emsp;&emsp;Institute of Economic and Political Studies <br> &emsp;&emsp;Kansai University
+
+**Committee Member** 
+ [Apr. 2025 --- Curr.]{.cvdate} <br> &emsp;&emsp;Research Project Committee<br> &emsp;&emsp;Hyodo Earthquake Memorial 21st Century Research Institute
+
+:::
+
 ::: {.no-print}
 
-## Affiliation
-
--  京都大学 大学院法学研究科 特定研究員
--  日本学術振興会 特別研究員PD <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation1" role="button" aria-expanded="false" aria-controls="collapseExample">
+-  東京大学 [大学院総合文化研究科・教養学部](https://www.c.u-tokyo.ac.jp) 講師 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation1" role="button" aria-expanded="false" aria-controls="collapseExample">
     詳細▼
   </a>
    <div class="collapse" id="affiliation1">
-   - 受入研究機関：京都大学 公共政策連携研究部・教育部
-   - 受入研究者：曽我謙悟先生
+   - 大学院 [地域文化研究専攻](https://ask.c.u-tokyo.ac.jp)
+   - 後期教養学部 教養学科 地域文化研究分科 [アジア・日本研究コース](https://webpark1088.sakura.ne.jp/wordpress/)
+   - 前期教養学部 法・政治部会
 </div>
--  延世大学 政治外交学科 訪問研究員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation2" role="button" aria-expanded="false" aria-controls="collapseExample">
+
+-  関西大学 [経済・政治研究所](https://www.kansai-u.ac.jp/Keiseiken/) 委嘱研究員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation3" role="button" aria-expanded="false" aria-controls="collapseExample">
+    詳細▼
+  </a>
+   <div class="collapse" id="affiliation3">
+   - 政治参加班
+</div>
+
+-  [公益財団法人ひょうご震災記念21世紀研究機構](https://www.hemri21.jp) 研究会委員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation4" role="button" aria-expanded="false" aria-controls="collapseExample">
+    詳細▼
+  </a>
+   <div class="collapse" id="affiliation4">
+   - 研究プロジェクト[「ポストコロナ社会に関する政策研究 -パンデミック危機に対する自然災害対策の適用可能性に関する研究-」](https://www.hemri21.jp/research-strategy-center/research-investigation/r-d-projects/2602/)
+</div>
+
+:::
+
+
+## Other Positions
+
+::: {.print-only}
+
+**Visiting Scholar**
+ [Mar. 2024 --- Curr.]{.cvdate} <br> &emsp;&emsp;Department of Political Science and Diplomacy, Yonsei University
+ 
+:::
+
+::: {.no-print}
+
+-  延世大学 [政治外交学科](http://politics.yonsei.ac.kr/) 訪問研究員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation2" role="button" aria-expanded="false" aria-controls="collapseExample">
     詳細▼
   </a>
    <div class="collapse" id="affiliation2">
-   - Qualities of Democracy Lab
-   - Multimodal Legislative Analysis Lab
+   - [Qualities of Democracy Lab](https://www.bk21pol.yonsei.ac.kr/labs/qualities-of-democracy-lab)
+   - [Applied Political Methodology Lab](https://www.bk21pol.yonsei.ac.kr/labs/applied-political-methodology-lab)
+   - [Multimodal Legislative Analysis Ad-hoc Lab](https://www.bk21pol.yonsei.ac.kr/labs/multimodal-legislative-analysis-ad-hoc-lab)
 </div>
+
+:::
+
+::: {.print-only}
+
+## Former Positions
+
+**Program-Specific Researcher** [Oct. 2023 --- Mar.2025]{.cvdate} <br> &emsp;&emsp;Graduate School of Law, Kyoto University
+
+**Postdoctoral Fellow** [Apr. 2023 --- Mar.2025]{.cvdate} <br> &emsp;&emsp;Research Fellowships for Young Scientists <br> &emsp;&emsp;Japan Society for the Promotion of Science (JSPS)
+
+**Part-time Lecture**
+<br> &emsp;&emsp;Ryukoku University (2023) <br> &emsp;&emsp;Kyoto Women’s University (2023) <br> &emsp;&emsp;University of Shiga Prefecture (2023)
+
+**Research Fellow (Torii Fellow)** [Apr. 2022 --- Mar. 2023]{.cvdate} <br> &emsp;&emsp;Grant for Individual Research on Society and Culture by Young Researchers, Suntory Foundation
+
+**Project Student** [Apr. 2022 --- Mar. 2023]{.cvdate} <br> &emsp;&emsp;Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, Kobe University
+
+**Foreign Research Student** [Aug. 2021 --- June 2022]{.cvdate} <br> &emsp;&emsp;Graduate School of International Studies, Yonsei University
 
 :::
 
@@ -125,16 +191,16 @@ cat(today)
    日本語▼
   </a>
    <div class="collapse" id="addressja">
-   - 〒606-8501 京都市左京区吉田本町
-        - 研究室: 法経北館2階 209号室
+   - 〒153-8902 東京都目黒区駒場 3-8-1
+        - 研究室: [18号館](https://www.u-tokyo.ac.jp/campusmap/cam02_01_17_j.html) 723号室
 </div>
 \
 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#addressen" role="button" aria-expanded="false" aria-controls="collapseExample">
     English▼
   </a>
    <div class="collapse" id="addressen">
-   - Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, JAPAN
-        - Office: \#209, Faculty of Law and Faculty of Economics North Bldg. 2F
+   - 3-8-1 Komaba, Meguro-ku, Tokyo 153-8902, JAPAN
+        - Office: \#723, [18th Bldg](https://www.u-tokyo.ac.jp/campusmap/cam02_01_17_j.html). 
 
 </div>  
 
@@ -143,32 +209,25 @@ cat(today)
 ### Access
 
 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessKyoto" role="button" aria-expanded="false" aria-controls="collapseExample">
-    京都駅から▼
+    東京都内から▼
   </a>
    <div class="collapse" id="accessKyoto">
-   1. 京都市営地下鉄京都駅→烏丸線・国際会館行（約10分）→今出川→烏丸今出川→京都市営バス201/203/急行102（約10分）→百万遍
-   1. JR京都駅→京都市営バス17/206（約35～45分）→百万遍
-   1. JR京都駅→奈良線・宇治方面（約3分）→東福寺→京阪本線・出町柳行（約15分）→出町柳（大学まで徒歩約15分）
-</div>
-\
-<a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessOsaka" role="button" aria-expanded="false" aria-controls="collapseExample">
-    大阪方面から▼
-  </a>
-   <div class="collapse" id="accessOsaka">
-   1. 京橋→京阪本線・出町柳行（特急：約50分）→出町柳（大学まで徒歩約15分）
-   1. 梅田→阪急京都線・河原町行（特急：約45分）→河原町→四条河原町→京都市営バス3/17/31/201（約20分）→百万遍
+   JR山手線等・渋谷駅、小田急線・下北沢駅、京王線・明大前駅より井の頭線に乗り換え、駒場東大前駅で下車。駅より徒歩0分。
 </div>
 \
 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#accessmap" role="button" aria-expanded="false" aria-controls="collapseExample">
     Map▼
   </a>
    <div class="collapse" id="accessmap">
-   <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1891855004114!2d135.77886387571886!3d35.02699677280552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108562446b2bb%3A0x17026e2b02f706d9!2z5Lqs6YO95aSn5a2mIOWQieeUsOOCreODo-ODs-ODkeOCuSDmnKzpg6jmp4vlhoU!5e0!3m2!1sja!2skr!4v1696660737779!5m2!1sja!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6483.454179794703!2d139.6827276111817!3d35.65909497248001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f351aa63509d%3A0x65ee58c4966aee1c!2z5p2x5Lqs5aSn5a2m5aSn5a2m6Zmi57eP5ZCI5paH5YyW56CU56m256eR44O75pWZ6aSK5a2m6YOo!5e0!3m2!1sja!2sjp!4v1741434554333!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
 
 :::
+
+
+
 
 ## Education
 
@@ -251,15 +310,15 @@ cat(today)
 ## Area of Specialization
 
 ::: {.no-print}
-**比較政治学**：社会運動、官民連携、ローカル・ガバナンス、韓国政治、日本政治
+**比較政治学**：社会運動、政治的代表、韓国政治、日本政治
 
-**市民社会論**：女性運動、フェミニズム、政治的帰結、反差別運動、河川保全運動、「新しい社会運動」
+**市民社会論**：政治的帰結、女性運動、フェミニズム運動、反差別運動、河川保全運動
 :::
 
 ::: {.print-only}
-**Comparative Politics** : Social Movements, Public-Private Partnership, Local Governance, Korean Politics, Japanese Politics
+**Comparative Politics** : Social Movements, Political Representation, Korean Politics, Japanese Politics
 
-**Civil Society** : Women’s Activism, Feminism, Political Outcome, Anti-Discrimination Activism, River Activism, New Social Movements
+**Civil Society** : Political Outcomes, Women’s Activism, Feminist Movements, Anti-discrimination Movements, River Protection Movements
 :::
 
 
@@ -271,13 +330,28 @@ cat(today)
 :::
 
 ::: {.print-only}
+**University of Tokyo**
+
+- First-Year Seminar for Humanities and Social Sciences Students (2025, for undergraduate 1st and 2nd years students)
+
+- Political Science II (2025, for undergraduate 1st and 2nd years students)
+
+- Seminar on Readings in Korean Language II (2025, for undergraduate 3rd and 4th years students)
+
+- Seminar on Readings in Korean Language III (2025, for undergraduate 3rd and 4th years  students)
+
+- Multi-dimensional Analysis of the World Structure: Seminar II (2025, for graduate students)
+
 **Ryukoku University**
+
 - Introduction to Political Science (2023)
 
 **Kyoto Women’s University**
+
 - Local Government (2023)
 
-**The University of Shiga Prefecture**
+**University of Shiga Prefecture**
+
 - Methods of Social Research (2023)
 
 ## Guest Lecturer
@@ -323,7 +397,17 @@ cat(today)
 
 :::
 
-## Experiences
+::: {.print-only}
+
+## Professional Service
+
+**Chairman** [Dec. 2024 --- Curr.]{.cvdate}
+
+- Planning Committee, Japan NPO Research Association 27th Research Conference
+
+:::
+
+## Other Experiences
 
 ::: {.no-print}
 
@@ -334,33 +418,10 @@ cat(today)
 
 ::: {.print-only}
 
-**Chairman** [Dec. 2024 --- Curr.]{.cvdate}
+**Organizer** [Nov. 2024 --- Curr.]{.cvdate}
 
-- Planning Committee, Japan NPO Research Association 27th Research Conference 
-
-**Visiting Scholar** [Mar. 2024 --- Curr.]{.cvdate}
-
-- Department of Political Science and Diplomacy, Yonsei University
-
-**Program-Specific Researcher** [Oct. 2023 --- Curr.]{.cvdate}
-
-- Graduate School of Law, Kyoto University
-
-**Research Fellow (Postdoctoral Fellow)** [Apr. 2023 --- Curr.]{.cvdate}
-
-- Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)
-
-**Research Fellow (Torii Fellow)** [Apr. 2022 --- Mar. 2023]{.cvdate}
-
-- Grant for Individual Research on Society and Culture by Young Researchers, Suntory Foundation
-
-**Project Student** [Apr. 2022 --- Mar. 2023]{.cvdate}
-
-- Next-Generation Outstanding Doctoral Human Development Project through Co-creation in Different Fields / sponsored by JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, Kobe University
-
-**Foreign Research Student** [Aug. 2021 --- June 2022]{.cvdate}
-
-- Graduate School of International Studies, Yonsei University
+- Japanese Early Career Forum for Third Sector Research (JECTS)
+- Promoter
 
 **President** [May 2018 --- Mar. 2019]{.cvdate}
 
@@ -555,7 +616,9 @@ gyoseki <- bind_cols(gyoseki, url_list)
 journal_a <- gyoseki |>
   filter(type == "scientific_journal"|
            type == "research_institution") |>
-  mutate(trans = paste0("<br>（= ", "「",title_ja, "」", "『",pub_ja, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
+  mutate(title_ja = case_when(lang == "eng" ~ "",
+                              TRUE ~ title_ja),
+         trans = paste0("<br>（= ", "「",title_ja, "」", "『",pub_ja, "』", vol, "(",no, "):", page_st, "-", page_en,". ", "）"),
          list_web = paste0(
           lang_head, authors_en, ". ",year, ".",  " \"",title_en,".\" ", "*",pub_en, "* ", vol, "(",no, "):", page_st, "-",page_en, ". ", trans),
 list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
@@ -1203,6 +1266,7 @@ Japanese (native), Korean (fluent), English (intermediate)
 ### Academic Society
 
 ::: {.no-print}
+
 日本NPO学会 [2018 – Curr.]{.cvdate}
 
 日本政治学会 [2019 – Curr.]{.cvdate}
@@ -1220,6 +1284,8 @@ International Society for Third-Sector Research (ISTR) [2022 – Curr.]{.cvdate}
 現代韓国朝鮮学会 [2024 – Curr.]{.cvdate}
 
 한국정치학회 (韓国政治学会) [2024 – Curr.]{.cvdate}
+
+International Political Science Association (IPSA) [2025 – Curr.]{.cvdate}
 
 :::
 
@@ -1243,13 +1309,17 @@ Association for Contemporary Korean Studies in Japan [2024 – Curr.]{.cvdate}
 
 Korean Political Science Association [2024 – Curr.]{.cvdate}
 
+International Political Science Association (IPSA) [2025 – Curr.]{.cvdate}
+
 :::
 
 ### Research Workshop
+
 ::: {.no-print}
+
 神戸大学政治学研究会 [2019 – Curr.]{.cvdate}
 
-質的調査研究会 [2019 – Curr.]{.cvdate}
+質的調査研究会 [2019 – 2025]{.cvdate}
 
 ソーシャルセクター研究会 [2019 – Curr.]{.cvdate}
 
@@ -1259,7 +1329,7 @@ Korean Political Science Association [2024 – Curr.]{.cvdate}
 
 多言語テキスト分析研究会 [2022 - Curr.]{.cvdate}
 
-京都大学現代政治ワークショップ [2023 – Curr.]{.cvdate}
+京都大学現代政治ワークショップ [2023 – 2025]{.cvdate}
 
 関西政治経済学研究会（Y&R） [2023 – Curr.]{.cvdate}
 
@@ -1268,19 +1338,20 @@ Korean Political Science Association [2024 – Curr.]{.cvdate}
 :::
 
 ::: {.print-only}
+
 Kobe University Research Workshop in Political Science [2019 – Curr.]{.cvdate}
 
-Qualitative Analysis Workshop in Kansai, Japan [2019 – Curr.]{.cvdate}
+Qualitative Analysis Workshop in Kansai, Japan [2019 – 2025]{.cvdate}
 
 Social Sector Workshop in Japan [2019 – Curr.]{.cvdate}
 
 Japan Early Career Forum on Political Science (JECPS) [2020 – Curr.]{.cvdate}
 
-Gender and Politics Research Workshop in Japan [2021 – Curr.]{.cvdate}
+Gender and Politics Forum [2021 – Curr.]{.cvdate}
 
 Multi-lingual Text Analysis Research Group [2023 - Curr.]{.cvdate}
 
-Kyoto University Research Workshop in Political Science [2023 – Curr.]{.cvdate}
+Kyoto University Research Workshop in Political Science [2023 – 2025]{.cvdate}
 
 Political Economy Research Workshop in Kansai (Y&R)  [2023 – Curr.]{.cvdate}
 

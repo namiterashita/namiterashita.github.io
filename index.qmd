@@ -1,10 +1,34 @@
 ---
-toc-depth: 5
+about: 
+  id: heading
+  template: trestles
+  image: pic/IMG_0362.jpg
+  image-width: 200px
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:kazuhiroterashita@outlook.jp
+    - icon: instagram
+      href: https://www.instagram.com/namiterashita_qod/
+    - text: "{{< iconify bi threads size=20px >}}" #quarto add mcanouil/quarto-iconify の実行が必要
+      href: https://www.threads.net/@namiterashita_qod
+    - text: "{{< iconify fa6-brands bluesky size=20px >}}"
+      href: https://bsky.app/profile/namiterashita.bsky.social
+    - text: "{{< iconify material-symbols edit-note size=23px >}}"
+      href: https://note.com/namiterashita
+    - icon: github
+      href: https://github.com/namiterashita
+    - icon: caret-right
+      href: https://researchmap.jp/kazuhiroterashita
+      
 ---
 
+<!--
 ![](pic/IMG_0614.png){fig-align="center"}
+-->
 
-I am a Program-Specific Researcher and JSPS Research Fellow (PD) at Kyoto University.
+
+I am a Full-time lecturer at [The University of Tokyo](https://www.u-tokyo.ac.jp).
 
 My research interests are social movements and civil society in Korea and Japan.
 
@@ -15,15 +39,17 @@ My research interests are social movements and civil society in Korea and Japan.
 ::: callout-note
 ## Menu
 
--   [CV](cv/index.qmd): 寺下の履歴書
--   [Research](research/index.qmd): 寺下の研究・業績
--   [Teaching](teaching/index.qmd): 寺下が担当する授業（受講生向け）
+-   [CV](cv/index.qmd)
+-   [Research](research/index.qmd)
+-   [Teaching](teaching/index.qmd)
 
 <!--
 - [한국어 사이트](https://kazuhiroterashita-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ko&_x_tr_hl=ja&_x_tr_pto=wapp) : Google 번역기
 -->
 
 :::
+
+<!--
 
 ::: callout-tip
 ## Social Media and Others
@@ -35,12 +61,13 @@ My research interests are social movements and civil society in Korea and Japan.
 - [Instagram](https://www.instagram.com/namiterashita/)
 - [Bluesky](https://bsky.app/profile/namiterashita.bsky.social)
 
-<!--
 - [Twitter](https://twitter.com/namiterashita)
 
--->
+
 
 :::
+
+-->
 
 <!--
 
