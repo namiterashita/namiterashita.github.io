@@ -113,7 +113,7 @@ cat(today)
     詳細▼
   </a>
    <div class="collapse" id="affiliation3">
-   - 政治参加班
+   - [政治参加研究班](https://www.kansai-u.ac.jp/Keiseiken/research/group6/)
 </div>
 
 -  [公益財団法人ひょうご震災記念21世紀研究機構](https://www.hemri21.jp) 研究会委員 <a class="btn btn-outline-primary btn-xs" data-bs-toggle="collapse" href="#affiliation4" role="button" aria-expanded="false" aria-controls="collapseExample">
