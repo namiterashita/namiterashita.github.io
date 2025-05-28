@@ -2,7 +2,7 @@
 about: 
   id: heading
   template: trestles
-  image: pic/IMG_0362.jpg
+  image: pic/myphoto.jpg
   image-width: 200px
   image-shape: round
   links:
