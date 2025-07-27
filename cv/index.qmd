@@ -1333,6 +1333,8 @@ International Political Science Association (IPSA) [2025 – Curr.]{.cvdate}
 
 関西政治経済学研究会（Y&R） [2023 – Curr.]{.cvdate}
 
+関西行政学研究会 [2024 – Curr.]{.cvdate}
+
 サードセクター研究若手フォーラム [2025 – Curr.]{.cvdate}
 
 :::
@@ -1354,6 +1356,8 @@ Multi-lingual Text Analysis Research Group [2023 - Curr.]{.cvdate}
 Kyoto University Research Workshop in Political Science [2023 – 2025]{.cvdate}
 
 Political Economy Research Workshop in Kansai (Y&R)  [2023 – Curr.]{.cvdate}
+
+Kansai Society for Administrative Science  [2024 – Curr.]{.cvdate}
 
 Japanese Early Career Forum for Third Sector Research (JECTS) [2025 – Curr.]{.cvdate}
 
