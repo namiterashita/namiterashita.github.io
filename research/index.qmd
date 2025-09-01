@@ -350,7 +350,8 @@ conf_pre <- presentations |>
         list_web = str_remove(list_web, "<br>（= 「」）"),
         list_web = str_remove(list_web, "「」"),
         list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
-        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로", "**데라시타 카즈히로**"),
+        list_web = str_replace(list_web, "\\*\\*데라시타 카즈히로\\*\\*\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
         list_web = str_replace(list_web, "^1. Kazuhiro Terashita", "1. **Terashita, Kazuhiro**"),
         list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**")
         )

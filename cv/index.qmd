@@ -14,6 +14,23 @@ format:
     lang: ja
     output-file: cv.pdf
     
+#   pdf:
+#    author: KAZUHIRO TERASHITA, Ph.D.
+#    pdf-engine: xelatex
+#    geometry: ["margin=20mm"]
+#    colorlinks: true
+    #mainfont: "NotoSans"
+    #CJKmainfont: "NotoSans"
+    #lang: ja
+#    output-file: cv.pdf
+#   latex-auto-install: false
+#    include-in-header: 
+#      text: |
+#        \usepackage{kotex}
+#        \setmainhangulfont{Noto Serif CJK JP}
+#        \setmainfont{Times New Roman}
+  
+    
 css: cv.css
 format-links:  
   - html
@@ -827,7 +844,8 @@ list_web = str_remove(list_web, "<br>（= 「」『』.*\\. ）"),
         list_web = str_remove_all(list_web, "\\(\\)"),
         list_web = str_remove(list_web, "<br>（= 「」）"),
         list_web = str_replace(list_web, "寺下和宏", "**寺下和宏**"),
-        list_web = str_replace(list_web, "데라시타 카즈히로\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
+        list_web = str_replace(list_web, "데라시타 카즈히로", "**데라시타 카즈히로**"),
+        list_web = str_replace(list_web, "\\*\\*데라시타 카즈히로\\*\\*\\(\\*\\*寺下和宏\\*\\*\\)", "**데라시타 카즈히로(寺下和宏)**"),
         list_web = str_replace(list_web, "Terashita, Kazuhiro", "**Terashita, Kazuhiro**"),
         list_web = str_replace(list_web, "Kazuhiro Terashita", "**Kazuhiro Terashita**"))
 
