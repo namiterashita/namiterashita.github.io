@@ -968,7 +968,8 @@ cat(paste(poster_pre$list_web,
 #| output: asis
 
 panel_pre <- presentations |>
-    filter(type == "public_symposium") |>
+    filter(type == "public_symposium"|
+             type == "nominated_symposium") |>
   mutate(trans = case_when(lang == "jpn" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja,  "\\, ", location.ja, "\\, ", year_month,". ","）"),
                            lang == "kor" ~ paste0("<br>（= ", "「",title_ja, "」", pub_ja, "\\, ", location.ja, "\\, ", year_month,". ","）"),
                            TRUE ~ ""),

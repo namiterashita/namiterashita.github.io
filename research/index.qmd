@@ -471,7 +471,8 @@ cat(paste(poster_pre$list_web,
 #| output: asis
 
 panel_pre <- presentations |>
-    filter(type == "public_symposium") |>
+    filter(type == "public_symposium"|
+             type == "nominated_symposium") |>
   mutate(trans = paste0("<br>（= ", "「",title_tr, "」", pub_tr, "）"),
          list_web = paste0(
           "1. ", presenters_ja,". ",  "\"",title_ja,",\" ",pub_ja, ", ",location.ja, ", ", year_month, ". ", trans),
