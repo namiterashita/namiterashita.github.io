@@ -38,8 +38,8 @@ format-links:
     href: cv.pdf
     icon: file-pdf
 
-mainfont: "Times New Roman"    
-CJKmainfont: "Noto Serif CJK JP"
+#mainfont: "Times New Roman"    
+#CJKmainfont: "Noto Serif CJK JP"
 
 ---
 ::: {.print-only .contact-block-2}
