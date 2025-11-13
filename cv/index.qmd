@@ -11,7 +11,7 @@ format:
    pdf:
     author: KAZUHIRO TERASHITA, Ph.D.
     pdf-engine: weasyprint
-    lang: ja
+    #lang: ja
     output-file: cv.pdf
     
 #   pdf:
@@ -37,7 +37,10 @@ format-links:
   - text: Full CV
     href: cv.pdf
     icon: file-pdf
-CJKmainfont: "NotoSans"
+
+mainfont: "Times New Roman"    
+CJKmainfont: "Noto Serif CJK JP"
+
 ---
 ::: {.print-only .contact-block-2}
 寺下 和宏
