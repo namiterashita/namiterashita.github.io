@@ -4,3 +4,11 @@
 .Ruserdata
 
 /.quarto/
+
+# 翻訳実行用スクリプト（機密を含む場合）
+Script/
+
+**/*.quarto_ipynb
+
+en 
+# 英語翻訳はまだ同期しない

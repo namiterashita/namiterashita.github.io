@@ -8,7 +8,7 @@ lang: ja
 website:
   site-url: "https://www.kazuhiroterashita.com/"
   title: "Kazuhiro Terashita"
-  page-footer: "Copyright 2025, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
+  page-footer: "Copyright 2026, Kazuhiro Terashita. Powered by [Quarto](https://quarto.org/)"
   google-analytics: "G-9CQKQ3Z1YQ"
   favicon: "pic/favicon2.png"
   navbar:
@@ -32,6 +32,8 @@ website:
         href: https://note.com/namiterashita
       - icon: github
         href: https://github.com/namiterashita
+      - text: "{{< ai orcid size=23px >}}"
+        href: https://orcid.org/0009-0003-3657-1673
       - icon: caret-right
         href: https://researchmap.jp/kazuhiroterashita
 

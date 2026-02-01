@@ -6,19 +6,28 @@ about:
   image-width: 200px
   image-shape: round
   links:
-    - icon: envelope
-      href: mailto:kazuhiroterashita@outlook.jp
+    #- icon: envelope
+    #  text: email
+    #  href: mailto:
+    - icon: file-earmark-pdf
+      text: Full CV
+      href: https://kazuhiroterashita.com/cv/cv.pdf
     - icon: instagram
+      text: Instagram
       href: https://www.instagram.com/namiterashita_qod/
-    - text: "{{< iconify bi threads size=20px >}}" #quarto add mcanouil/quarto-iconify の実行が必要
+    - text: "{{< iconify bi threads size=20px >}} Threads" #quarto add mcanouil/quarto-iconify の実行が必要
       href: https://www.threads.net/@namiterashita_qod
-    - text: "{{< iconify fa6-brands bluesky size=20px >}}"
+    - text: "{{< iconify fa6-brands bluesky size=20px >}} Bluesky"
       href: https://bsky.app/profile/namiterashita.bsky.social
-    - text: "{{< iconify material-symbols edit-note size=23px >}}"
+    - text: "{{< iconify material-symbols edit-note size=23px >}} note"
       href: https://note.com/namiterashita
     - icon: github
+      text: GitHub
       href: https://github.com/namiterashita
+    - text: "{{< ai orcid size=23px >}} ORCID"
+      href: https://orcid.org/0009-0003-3657-1673
     - icon: caret-right
+      text: researchmap
       href: https://researchmap.jp/kazuhiroterashita
       
 ---

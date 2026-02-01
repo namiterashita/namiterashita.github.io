@@ -736,6 +736,8 @@ cat(paste(research_projects$list_web,
 
 ## Other Grants and Scholarships
 
+1.  「日本政治学会 2025年度 世界政治学会（IPSA）派遣報告旅費補助」, 支援対象学会：28th IPSA World Congress of Political Science, 2025年3月.
+
 1.  「日本NPO学会 若手研究者への国際学会参加支援助成金」, 支援対象学会：2024 ARNOVA Asia Conference, 2024年12月.
 
 1.  「日本学生支援機構 第一種奨学金特に優れた業績による返還免除」, 2023年5月.

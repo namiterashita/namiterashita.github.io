@@ -13,6 +13,8 @@ format:
     pdf-engine: weasyprint
     #lang: ja
     output-file: cv.pdf
+    mainfont: "Times New Roman"    
+    CJKmainfont: "Noto Serif CJK JP"
     
 #   pdf:
 #    author: KAZUHIRO TERASHITA, Ph.D.
@@ -38,8 +40,7 @@ format-links:
     href: cv.pdf
     icon: file-pdf
 
-#mainfont: "Times New Roman"    
-#CJKmainfont: "Noto Serif CJK JP"
+
 
 ---
 ::: {.print-only .contact-block-2}
@@ -1190,7 +1191,19 @@ research_projects <-
 research_projects <- research_projects |>
   mutate(list_web = paste0("**",
     from_date_e, " --- ", to_date_e, "**", " ",
-    offer_org.en, " ", sys_name.en, "<br>", "（= ", offer_org.ja, sys_name.ja,"）","\\"))
+    offer_org.en, " ", sys_name.en, " ", category.en, "<br>", "（= ", offer_org.ja, sys_name.ja," ",category.ja,"）","\\")|>
+      str_remove_all(" NA")|>
+      str_replace_all("特別研究員奨励費 特別研究員奨励費",
+                      "特別研究員奨励費")|>
+      str_replace_all("Grants-in-Aid for Scientific Research Grant-in-Aid for Scientific Research",
+                      "Grants-in-Aid for Scientific Research")|>
+      str_replace_all("Grant-in-Aid for JSPS Fellows Grant-in-Aid for JSPS Fellows",
+                      "Grant-in-Aid for JSPS Fellows")|>
+      str_replace_all("Grants-in-Aid for Scientific Research Grant-in-Aid for Challenging Research",
+                      "Grant-in-Aid for Challenging Research")
+    )
+
+
 
 format_titles_rp <- function(refs) {
   gsub(" \"([^”]*[一-龥ぁ-んァ-ン][^”]*).\" ", "「\\1」", refs, perl = TRUE)
@@ -1221,6 +1234,8 @@ cat(paste(research_projects$list_web,
 -->
 
 ## Other Grants and Scholarships
+
+**Mar. 2025** Japan Political Science Association (JPSA) FY 2025 IPSA Conference Travel Grant <br> (= 日本政治学会 2025年度 世界政治学会（IPSA）派遣報告旅費補助, 2025年3月. )
 
 **Dec. 2024** Grants to Support Young Researchers to Attend International Conferences, Japan NPO Research Association <br> (= 日本NPO学会 若手研究者への国際学会参加支援助成金, 2024年12月. )
 
