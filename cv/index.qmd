@@ -146,6 +146,7 @@ cat(today)
 
 :::
 
+<!--
 
 ## Other Positions
 
@@ -169,9 +170,14 @@ cat(today)
 
 :::
 
+-->
+
 ::: {.print-only}
 
 ## Former Positions
+
+**Visiting Scholar**
+ [Mar. 2024 --- Feb.2026]{.cvdate} <br> &emsp;&emsp;Department of Political Science and Diplomacy, Yonsei University
 
 **Program-Specific Researcher** [Oct. 2023 --- Mar.2025]{.cvdate} <br> &emsp;&emsp;Graduate School of Law, Kyoto University
 
